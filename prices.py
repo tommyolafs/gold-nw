@@ -14,12 +14,7 @@ site = rq.get(url)
 html = str(site.content)
 
 itemsRaw = html.split("}")[0:-1]
-
-
-
 itemsRaw[0] = itemsRaw[0][3:]
-print(itemsRaw[0])
-print(itemsRaw[-1], "\n")
 
 itemsUncleaned = []
 
@@ -35,5 +30,24 @@ print(itemsUncleaned[0])
 print(itemsUncleaned[4])
 print(itemsUncleaned[-1])
 
+items = []
 for item in itemsUncleaned:
-    pass
+    statsRaw = item.split(", ")
+    stats = {}
+    for stat in statsRaw:
+        statSplit = stat.split(": ")
+
+        print(statSplit) # ItemName = "Captain Quicksilver\\\'s Lamp, Bronze Replica"
+        statName = statSplit[0].strip('"')
+        statValue = statSplit[1].strip('"')
+        
+        try:
+            statValue = float(statValue)
+        except ValueError:
+            pass
+
+        stats[statName] = statValue
+    
+    items.append(stats)
+
+print(items)
