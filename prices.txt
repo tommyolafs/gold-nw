@@ -1,0 +1,3328 @@
+Abaia Serpe | 108.93 | null
+Above Glyph Stone | 1.64 | 41.0
+Acid Tincture | 14.95 | 4.0
+Adamant | 38995.0 | 1.0
+Adamantine Dust | 1899.98 | 2.0
+Administrative Desk Scrolls | 988.0 | null
+Advanced Loading Mechanism | 12.9 | null
+Advanced Repair Kit | 2.4 | null
+Aeternum Sturgeon Grilled Fish Plate | 37.7 | null
+Aged Tannin | 0.52 | 1469.0
+Aged Wood | 0.13 | 2081.0
+Air Essence | 14.49 | 335.0
+Air Mote | 1.1 | 228.0
+Air Quintessence | 26.5 | 40.0
+Air Wisp | 4.89 | 122.0
+Albenaja | 99.0 | 153.0
+Aloe Gel | 1.0 | 841.0
+Amaranth Dye | 69.0 | null
+Amber | 2.9 | 623.0
+Amethyst | 1.59 | 891.0
+Amethyst Marble Bedside Table | 4250.0 | null
+Amethyst Marble Dining Table | 349.99 | null
+Ancho Masala Scorpion | 35.0 | 36.0
+Anchor | 6.0 | 988.0
+Ancient-Attuned Spores | 0.05 | null
+Ancient Bearing | 1.27 | 51.0
+Ancient Bear Paw | 2.85 | null
+Ancient Bone Totem | 5.84 | null
+Ancient Dust | 7.7 | 94.0
+Ancient Femur | 8.99 | 70.0
+Ancient Glob of Ectoplasm | 273.77 | 1.0
+Ancient Jawbone | 0.08 | null
+Ancient Mandible | 12771.0 | 1.0
+Ancient Pottery Wheel | 6.0 | null
+Ancient Skull | 62.0 | 99.0
+Ancient Talismans | 2.84 | 1802.0
+Ancient Texts | 118.0 | 9.0
+Ancient Wooden Talisman | 0.13 | 9611.0
+Angry Earth-Attuned Spores | 0.06 | null
+Animal Claw | 0.09 | null
+Animal Eye | 0.39 | 9681.0
+Animal Fang | 0.09 | null
+Animal Horn | 9.98 | 78.0
+Animal Viscera | 2.87 | 223.0
+Anmisema | 42.95 | null
+Apple | 0.38 | 278.0
+Apple Pie | 0.6 | null
+Aquamarine | 1.5 | 439.0
+Aquanaja | 1.06 | null
+Aquatic Snail | 49.9 | 94.0
+Armadillo Jocon | 179.99 | 55.0
+Armorer\'s Journal | 6983.0 | 1.0
+Armor Fragments | 0.24 | null
+Armor Matrix | 7019.0 | 1.0
+Armor Scraps | 0.08 | null
+Armor Shards | 320.0 | 1.0
+Ash Armoire | 35.0 | null
+Ash Barstool | 99.99 | null
+Ash Cabinet | 30.0 | null
+Ash Casual Chair | 100.0 | null
+Ash Chest of Drawers | 35.0 | null
+Ash Desk | 30.0 | null
+Ash Dining Chair | 150.0 | null
+Ash Dresser | 50.0 | null
+Ash End Table | 100.0 | null
+Ash Full Bed | 14.0 | null
+Ash Large Bookcase | 100.0 | null
+Ash Large Table | 20.0 | null
+Ash Resin | 2.0 | null
+Ash Small Bookcase | 35.0 | null
+Ash Small Table | 100.0 | null
+Ash Stain | 0.01 | null
+Ash Wall Shelf | 9.3 | null
+Asmodeum | 25.0 | 74.0
+Asmodeum Band | 200.0 | null
+Asmodeum Chain | 50.0 | null
+Asmodeum Hook | 90.0 | null
+Asmodeum Setting | 90.0 | null
+Astra Tonic | 22.0 | null
+Aurora Blue Dye | 49.8 | 29.0
+Autumn Moss Dye | 5.0 | null
+Avocado Dye | 9.94 | null
+Azoth Water | 7.98 | 34.0
+Azurite Chunk | 3.75 | 234.0
+Bacon-Wrapped Scallops | 16.65 | 44.0
+Baetylus Heart | 1344.0 | 3.0
+Baked Fish Filet | 4.99 | null
+Baked Red Clay Dye | 97.1 | 26.0
+Bamboo Display Vase | 3699.0 | null
+Banana | 4.13 | 885.0
+Banana Bread | 39.57 | 20.0
+Banana Parfait | 50.89 | 21.0
+Banana Pudding | 69.69 | 10.0
+Banner Fragment | 9.0 | 154.0
+Barbvine | 4.78 | 97.0
+Barkflesh | 6.0 | 1224.0
+Barley | 2.99 | 1820.0
+Barley Soup | 17.98 | null
+Basic Ancients Combat Trophy | 300.0 | 1.0
+Basic Angry Earth Combat Trophy | 423.0 | 1.0
+Basic Arcana Crafting Trophy | 1180.55 | null
+Basic Armoring Crafting Trophy | 8990.0 | 1.0
+Basic Cooking Crafting Trophy | 830.0 | 1.0
+Basic Corrupted Combat Trophy | 600.0 | null
+Basic Engineering Crafting Trophy | 3431.0 | 1.0
+Basic Fishing Gathering Trophy | 885.0 | null
+Basic Harvesting Gathering Trophy | 2700.0 | 1.0
+Basic Human Combat Trophy | 997.55 | 1.0
+Basic Logging Gathering Trophy | 3000.0 | 1.0
+Basic Loot Luck Trophy | 17500.0 | 1.0
+Basic Lost Combat Trophy | 679.55 | 1.0
+Basic Mining Gathering Trophy | 3981.0 | 1.0
+Basic Mount Vitamins | 14.93 | 132.0
+Basic Mount Vittles | 0.26 | null
+Basic Skinning Gathering Trophy | 3980.0 | null
+Basic Weaponsmithing Crafting Trophy | 700.0 | null
+Basic Wildlife Combat Trophy | 480.0 | null
+Basil | 0.85 | 239.0
+Bear Blood | 2.33 | null
+Bear Flank and Cabbage | 16.4 | 8.0
+Bear Flank Pinwheels | 11.38 | null
+\\"Bear in Meadow\\" Painting | 29.0 | null
+Beast-Attuned Spores | 0.03 | 1907.0
+Beast\'s Nest | 98.0 | null
+Bedsheet Curtains | 50.0 | null
+Beef Braciole | 33.0 | 26.0
+Beeswax | 2.49 | 148.0
+Before the Storm | 1.78 | null
+Before the Storm | 2.0 | null
+Berry | 0.2 | 133.0
+Berry Brew | 2.0 | null
+Berry-Glazed Roasted Ham | 12.0 | null
+Berry Pit Dye | 13.88 | null
+\\"Beyond the Gate\\" Painting | 34.99 | null
+Biscuits and Gravy | 20.6 | null
+Blackened Fish Filet | 0.48 | null
+Blackened Lava Barb with Corn Succotash | 88.98 | null
+Blackened Ray-Finned Barb with Fondant Potatoes | 50.0 | null
+Black-lacquered Dining Table | 2000.0 | null
+Black-lacquered Galley Shelf | 950.0 | null
+Black-lacquered Half-Barrel Table | 333.0 | null
+Black-lacquered Helm Chandelier | 17654.0 | null
+Black-lacquered Low Bookcase | 1500.0 | null
+Black-lacquered Scrolled Armoire | 748.0 | null
+Black-lacquered Scrolled Desk | 500.0 | null
+Black-lacquered Short Dresser | 500.0 | null
+Black-lacquered Small Table | 1000.0 | null
+Black-lacquered Tall Bookcase | 2000.0 | null
+Black-lacquered Tall Dresser | 899.0 | null
+Black-lacquered Vanity Table | 300.0 | null
+Black Pigment | 13.0 | 39.0
+Black Powder Pouch | 2.5 | 1915.0
+Blacksmith Arm | 0.5 | null
+Blacksmith Arm | 2.23 | null
+Blacksmith Arm | 100.0 | 1.0
+Blacksmith Arm | 1.95 | null
+Blacksmith Arm | 0.84 | null
+Blacksmith Arm | 9.99 | null
+Blacksmith Arm | 4.0 | null
+Blacksmith Arm | 0.01 | null
+Blacksmith Arm | 15.9 | null
+Blessed Crucible | 11.78 | 26.0
+Blessed Rivets | 6868.99 | 5.0
+Blessed Scepter | 9.85 | null
+Blightmoth Dust | 28.04 | 64.0
+Blightroot Flower | 2.3 | 209.0
+Blightroot Leaf | 1.98 | 500.0
+Blightroot Stem | 1.4 | 3611.0
+Blisterweave | 6.38 | 466.0
+Bloodspore Bloom | 1.29 | 912.0
+Bloody Place Setting | 94.0 | null
+Bloody Posh Curtains | 98.0 | null
+Bloody Posh Valance | 150.0 | null
+Bloody Ragged Curtains | 190.0 | null
+Bloody Velvet Armchair | 555.0 | 2.0
+Bloody Velvet Captain\'s Bed | 148.0 | null
+Bloody Velvet Dining Chair | 1099.99 | null
+Bloody Velvet Footstool | 500.0 | 1.0
+Bloom and Breathe | 2.99 | null
+Bloom and Breathe | 11.0 | null
+Bloom and Breathe | 14.3 | null
+Blooming Agave Plant | 900.0 | null
+Blueberry | 0.28 | 10000.0
+Blueberry Glazed Ham Hock with Steamed Vegetables | 15.0 | null
+Blueberry Pie | 5.0 | null
+Blue-blooded Barb | 10.8 | 55.0
+Blue Pigment | 6.0 | 49.0
+Blue-Winged Serpe | 16.91 | null
+Boar Blood | 4.99 | null
+Boar Tusk | 0.69 | null
+Boiled Cabbage | 1.99 | null
+Boiled Potatoes | 8.0 | null
+Bolt of Corrupted Cloth | 10.89 | null
+Bonsai Centerpiece | 400000.0 | null
+Booty Storage Chest | 1470.0 | 1.0
+Braised Wolf Loin | 24.99 | null
+Brass Candelabra | 99.0 | 1.0
+Brass Telescope | 15.0 | null
+Bread | 3.98 | 280.0
+Bread Bait | 3.49 | null
+Breakfast Bread | 3.0 | null
+Briar Buds | 0.13 | 8810.0
+Brightscale Hide | 8.0 | 337.0
+Brilliant Amber | 3.9 | 154.0
+Brilliant Amethyst | 4.19 | 303.0
+Brilliant Animus | 500.0 | 3.0
+Brilliant Aquamarine | 8.99 | 169.0
+Brilliant Carnelian | 4.99 | 126.0
+Brilliant Corrupted Insignia | 4.89 | null
+Brilliant Diamond | 4.21 | 169.0
+Brilliant Emerald | 7.77 | 489.0
+Brilliant Jasper | 8.19 | 113.0
+Brilliant Malachite | 4.9 | 99.0
+Brilliant Moonstone | 4.29 | 153.0
+Brilliant Onyx | 3.8 | 152.0
+Brilliant Opal | 4.4 | 490.0
+Brilliant Pearl | 578.0 | 12.0
+Brilliant Ruby | 4.0 | 284.0
+Brilliant Sapphire | 5.76 | 48.0
+Brilliant Topaz | 6.0 | 129.0
+Broccoli | 2.21 | 24.0
+Broken Blade | 0.43 | null
+Broken Chime Post | 20.0 | null
+Broken Hatchet | 0.45 | null
+Bronze Candelabra | 50.0 | null
+Bronze Strobilus Charm | 350.0 | null
+Brown Bear Pelt Rug | 99.0 | null
+Brown Pigment | 24.97 | 27.0
+Brown Tonic | 3.0 | 4.0
+Brush Set with Parcels | 5500.0 | null
+Bulbous Chameleon Cordata | 1250.0 | null
+Bulrush Cob | 0.32 | 9417.0
+Bumbleblossom | 0.55 | 2779.0
+Burlap Sack | 100.0 | null
+Burnished Lilac Dye | 188.79 | null
+Burnt Copper Wall Brazier | 2500.0 | null
+Butter | 0.68 | 1708.0
+Buttercream Pudding | 9.0 | 98.0
+Buttered Rum Dye | 69.9 | 21.0
+Butter Poached Game | 25.0 | null
+Butter Poached Oysters on Angel Hair | 5.0 | null
+Cabbage | 0.71 | 2049.0
+Cabbage-Wrapped Roasted Fish | 35.0 | null
+Cactus Flesh | 1.28 | 1618.0
+Cactus Sage Dye | 12.0 | null
+Calamari and Tomato Stew | 10.69 | null
+Calligraphy Brush Set | 3500.0 | null
+Call of the Ancients | 789.0 | null
+Call of the Ancients | 8.1 | null
+Call of the Ancients | 4.6 | null
+Callus Mangy Hide | 0.11 | null
+Campfire Cooking Set | 0.5 | null
+Campfire Stew | 0.7 | null
+Canarios | 29900.0 | null
+Candle Cluster | 680.0 | null
+Canteen Set | 30.0 | null
+Captain Quicksilver\'s Lamp, Bronze Replica | 200.0 | null
+Captain Quicksilver\'s Lamp, Gold Replica | 175.99 | null
+Captain Quicksilver\'s Lamp, Original | 38.0 | 4.0
+Captain Quicksilver\'s Lamp, Silver Replica | 369.0 | null
+Captain\'s Bath | 98.0 | null
+Captain\'s Writing Set | 980.9 | null
+Carbonara | 54.0 | null
+Carnelian | 1.67 | 941.0
+Carrot | 0.35 | 1171.0
+Carrot Cake | 28.48 | 16.0
+Carrot Soup | 9.99 | null
+Carthago Tonic | 12.0 | 28.0
+Cartographer\'s Tools | 17.0 | null
+Carved Ebony Armchair | 1003.0 | null
+Carved Ebony Stool | 899.0 | null
+Carved Jade Armchair | 1455.0 | null
+Carved Jade Stool | 498.0 | null
+Carved Rosewood Armchair | 150.0 | null
+Carved Rosewood Stool | 500.0 | null
+Carved Statue of Caesar | 500.0 | null
+Carved Statue of Minerva | 330.0 | null
+Carved Statue of Vesta | 250.0 | null
+Carved Teak Armchair | 499.0 | null
+Carved Teak Stool | 65.0 | null
+Castle Aquamarine Dye | 8.99 | null
+Catfish Whiskers | 3.65 | 914.0
+Cauldron Cooking Set | 0.8 | null
+Cauliflower | 3.1 | 108.0
+Caviar Crostini | 75.0 | null
+Centurion Concrete Stove | 999.0 | null
+Centurion Curtains | 399.0 | null
+Centurion Curule Seat | 77.0 | null
+Centurion Dining Chair | 699.0 | null
+Centurion High Bed | 588.0 | null
+Centurion Place Setting | 199.0 | null
+Centurion Tapestry | 212.0 | null
+Centurion Valance | 98.0 | null
+Centurion Woven Rug | 649.99 | null
+\\"Ceres - Goddess of Grain\\" Wall Fresco | 1500.0 | null
+Cerulean Curtains | 95.0 | null
+Cerulean Drape | 95.0 | null
+Cerulean Place Setting | 1.0 | null
+Cerulean Sheets Bunk Bed | 30.0 | null
+Cerulean Valance | 95.0 | null
+Chaos Glyph Stone | 0.62 | 10000.0
+Charcoal | 0.13 | 500.0
+Charged Sand | 39.91 | 195.0
+Cheese | 1.0 | 2385.0
+Cheese Bait | 0.81 | null
+Cheesecake | 75.0 | null
+Cheesy Broccoli Soup | 0.99 | null
+Chef\'s Secret Cookbook | 197.0 | 3.0
+Chef\'s Secret Techniques | 130.0 | 4.0
+Cherry Curtains | 1999.0 | null
+Cherry Drape | 2999.0 | null
+Cherry Place Setting | 17.4 | null
+Cherry Sheets Bunk Bed | 12.0 | null
+Cherry Valance | 999.0 | null
+Chili con Armadillo | 99.0 | 57.0
+Chilled Fang | 0.02 | null
+Chitin Padding | 46.0 | 10.0
+Chitin Parts | 0.32 | 4677.0
+Chitin Plate | 2.98 | 99.0
+Chrysanthemum Standing Lantern | 1900.0 | 4.0
+Chunk of Adamant | 1.0 | null
+Chunk of Adderstone | 0.99 | 829.0
+Chunk of Baetylus | 6.8 | null
+Chunk of Batrachite | 0.99 | null
+Chunk of Cobalt | 0.6 | null
+Chunk of Consecrated Iron | 36.77 | null
+Chunk of Corrupted Matter | 6.0 | null
+Chunk of Crystal | 0.81 | null
+Chunk of Crystalized Azoth | 0.94 | null
+Chunk of Crystalized Ectoplasm | 0.06 | null
+Chunk of Enchanted Earth | 7.68 | null
+Chunk of Niter | 5.6 | null
+Chunk of Sparkmetal | 5.9 | 71.0
+Chunk of Thunderstone | 0.18 | null
+Cinnabar | 8.73 | 468.0
+Cinnamon | 8.19 | 48.0
+Cinnamon Dye | 88.9 | 24.0
+Citrus Tart | 24.5 | null
+Clam | 13.93 | 155.0
+Clam Bait | 0.03 | null
+Clam Chowder | 19.97 | null
+Clean Serving Dishes | 36.0 | null
+Clouded Glass Jug | 2.5 | null
+\\"Clouds of Heaven\\" Painting | 3900.0 | null
+Clump of Writhing Briar | 4.91 | null
+Cluttered Dishes | 29.5 | null
+Coagulated Blood | 0.35 | 2324.0
+Coarse Amethyst Dye | 98.68 | 28.0
+Coarse Leather | 1.7 | 400.0
+Coconut | 0.3 | 3830.0
+Coconut-Crusted Fish Filet | 24.0 | null
+Coconut Custard | 7.5 | null
+Cod Eye | 3.88 | 150.0
+Colorful Wind Chimes | 98.0 | null
+Comet Dye | 24.5 | null
+Common Alkahest | 0.08 | 9184.0
+Common Ancient Coating | 3.94 | null
+Common Angry Earth Coating | 0.02 | null
+Common Beast Coating | 3.9 | null
+Common Blight Tincture | 0.2 | null
+Common Corrupted Coating | 18.0 | null
+Common Corruption Tincture | 0.5 | null
+Common Focus Potion | 3.74 | null
+Common Gemstone Dust | 0.87 | null
+Common Health Potion | 0.07 | null
+Common Honing Stone | 18.44 | 100.0
+Common Human Coating | 17.0 | null
+Common Incense | 10.99 | null
+Common Lost Coating | 9.0 | null
+Common Mana Potion | 0.28 | null
+Common Oakflesh Balm | 4.99 | null
+Common Proficiency Booster | 14.0 | 10.0
+Common Regeneration Potion | 1.49 | 98.0
+Complex Mount Vitamins | 9.89 | 104.0
+Convergence Cake | 4.9 | null
+Cooked Corn | 0.3 | null
+Cooking Oil | 0.45 | 1683.0
+Cool Iron Chandelier - Bright | 6.9 | null
+Cool Iron Chandelier - Dim | 30.0 | null
+Cool Iron Lantern - Bright | 39.0 | null
+Cool Iron Lantern - Dim | 92.0 | null
+Cool Iron Sconce - Bright | 195.0 | null
+Cool Iron Sconce - Dim | 134.0 | null
+Cool Violet Dye | 34.0 | 23.0
+Copper Dye | 135.0 | 50.0
+Copper Water Pump | 124.0 | null
+Cordon Bleu | 7.95 | null
+Corduroy Dye | 74.98 | 36.0
+Corn | 0.44 | 509.0
+Cornbread | 13.0 | null
+Corned Beef and Cabbage | 3.0 | null
+Corrupted Crest | 5.99 | 67.0
+Corrupted Crystal | 93.0 | 20.0
+Corrupted Fragment | 7.1 | 53.0
+Corrupted Lodestone | 249.98 | 15.0
+Corrupted Shard | 27.0 | 26.0
+Corrupted Sigil | 0.07 | null
+Corrupted Sliver | 2.2 | 243.0
+Corrupted Talisman | 0.97 | 9992.0
+Corrupted Totem | 12450.0 | 1.0
+Corrupted Treatise | 11.0 | 27.0
+Courage of the Keys | 2.7 | null
+Courage of the Keys | 0.01 | null
+Covenant Barbarian Seal | 4.0 | null
+Covenant Brigand Seal | 9.0 | null
+Covenant Cleric Seal | 15.0 | null
+Covenant Occultist Seal | 4.5 | null
+Cranberry | 0.3 | 384.0
+Creamed Corn | 2.0 | null
+Crescent Bloody Rug | 48.0 | 5.0
+Crest of Fortitude | 5.0 | null
+Crispy Chicken and Potatoes | 44.38 | 98.0
+Crowded Armory Rack | 299.0 | null
+Crumbled Rock Dye | 200.69 | null
+Crystalline Fur | 67.98 | 25.0
+Crystalline Lodestone | 1.4 | 1098.0
+Crystalline Resin | 1.85 | null
+Cursed Storage Chest | 4999.0 | 1.0
+Curved Grassy Rug | 4000.0 | null
+Curved Maritime Rug | 99.99 | null
+Cut Amber | 13.0 | null
+Cut Amethyst | 59.0 | 41.0
+Cut Aquamarine | 1.65 | 48.0
+Cut Bamboo Storage Pot | 2100.0 | null
+Cut Brilliant Amber | 100.0 | 54.0
+Cut Brilliant Amethyst | 120.0 | 11.0
+Cut Brilliant Aquamarine | 41.97 | 11.0
+Cut Brilliant Carnelian | 20.0 | 25.0
+Cut Brilliant Diamond | 54.49 | 44.0
+Cut Brilliant Emerald | 27.91 | 44.0
+Cut Brilliant Jasper | 12.97 | 216.0
+Cut Brilliant Malachite | 68.75 | 20.0
+Cut Brilliant Moonstone | 20.09 | null
+Cut Brilliant Onyx | 58.5 | 48.0
+Cut Brilliant Opal | 111.0 | 6.0
+Cut Brilliant Ruby | 81.0 | 53.0
+Cut Brilliant Sapphire | 15.65 | 84.0
+Cut Brilliant Topaz | 19.9 | null
+Cut Carnelian | 11.9 | null
+Cut Diamond | 18.8 | null
+Cut Emerald | 8.0 | null
+Cut Flawed Amber | 0.26 | null
+Cut Flawed Amethyst | 0.36 | null
+Cut Flawed Aquamarine | 0.22 | null
+Cut Flawed Carnelian | 2.2 | null
+Cut Flawed Diamond | 0.34 | null
+Cut Flawed Emerald | 0.28 | null
+Cut Flawed Jasper | 0.44 | null
+Cut Flawed Malachite | 0.2 | 3280.0
+Cut Flawed Moonstone | 0.64 | null
+Cut Flawed Onyx | 0.59 | null
+Cut Flawed Opal | 0.2 | null
+Cut Flawed Ruby | 0.7 | null
+Cut Flawed Sapphire | 4.0 | null
+Cut Flawed Topaz | 0.19 | null
+Cut Jasper | 10.0 | null
+Cut Malachite | 5.0 | null
+Cut Moonstone | 5.0 | null
+Cut Onyx | 12.0 | 309.0
+Cut Opal | 18.0 | null
+Cutout Standing Lantern | 100.0 | null
+Cut Pristine Amber | 180.5 | 5.0
+Cut Pristine Amethyst | 331.89 | 2.0
+Cut Pristine Aquamarine | 129.0 | 10.0
+Cut Pristine Carnelian | 285.0 | 5.0
+Cut Pristine Diamond | 235.0 | 4.0
+Cut Pristine Emerald | 131.99 | 5.0
+Cut Pristine Jasper | 60.75 | 33.0
+Cut Pristine Malachite | 285.0 | 3.0
+Cut Pristine Moonstone | 72.0 | 68.0
+Cut Pristine Onyx | 210.0 | 4.0
+Cut Pristine Opal | 307.87 | 3.0
+Cut Pristine Ruby | 200.0 | 4.0
+Cut Pristine Sapphire | 78.0 | 2.0
+Cut Pristine Topaz | 53.0 | 23.0
+Cut Ruby | 2.65 | 5.0
+Cut Sapphire | 10.0 | null
+Cut Topaz | 9.0 | 7.0
+Cyan Pigment | 0.45 | 16.0
+Cypress Chest of Drawers | 400.0 | null
+Cypress Family Shrine | 1000.0 | null
+Cypress Large Bookcase | 500.0 | null
+Cypress Small Bookcase | 399.0 | null
+Cypress Wood Armchair | 999.0 | null
+Cypress Wood Armoire | 650.0 | null
+Cypress Wooden Desk | 1000.0 | null
+Cypress Wooden Wall Shelf | 249.99 | null
+Cypress Wood Small Table | 999.0 | null
+Daemonaja | 29.99 | 218.0
+Daisy Pink Dye | 31.0 | 36.0
+Dark Hide | 0.74 | 3000.0
+Dark Leather | 27.98 | 250.0
+Dark Tan Dye | 107.99 | null
+Dark Wicker-Wrapped Jug | 2.0 | null
+Dazzling Coral Dye | 149.98 | 40.0
+Dead Dryad Vine | 3.0 | 1792.0
+Dear Mr. Harrison | 1.99 | null
+Dear Mr. Harrison | 3.23 | null
+Dear Mr. Harrison | 0.65 | null
+Dear Mr. Harrison | 4.99 | null
+Dear Mr. Harrison | 1.55 | null
+Death Essence | 21.9 | 25.0
+Death Mote | 1.13 | 464.0
+Death Quintessence | 46.24 | 81.0
+Death Wisp | 9.1 | 429.0
+Decorative Glass Bottle | 1.5 | null
+Decorative Root Ball | 299.0 | null
+Deep Chocolate Dye | 19.0 | null
+Deep-Fried Poultry | 0.46 | null
+Deep Sea Green Dye | 4.0 | null
+Deep Silver Hanging Oil Lamp | 9876.0 | null
+Deep Silver Short Oil Lamp | 4000.0 | null
+Deep Silver Tall Oil Lamp | 1000.0 | null
+Deep Silver Wall Brazier | 23000.0 | 1.0
+Defiled Rabbit\'s Foot | 95.0 | 44.0
+Delicate Fish Filet | 7.95 | 448.0
+Delicate Sand Dye | 31.11 | null
+Delicate Silver Dye | 177.0 | 11.0
+Delphinium Wreath | 29.0 | null
+Desecrated Flesh | 2.84 | 1193.0
+Desert Dye | 99.0 | null
+Desert Sunrise | 2.0 | 15.0
+Desk Accessories | 4000.0 | null
+Destruction Glyph Stone | 0.12 | 10000.0
+Detritus Dye | 300.0 | 18.0
+Diamond | 1.9 | 237.0
+Died Sap | 700.0 | 22.0
+Dignified Lacy Boots | 1.4 | 85.0
+Dignified Lacy Gloves | 1.5 | null
+Dignified Lacy Hat | 0.3 | null
+Dignified Lacy Pants | 0.49 | null
+Dignified Lacy Shirt | 0.61 | null
+Dill | 0.5 | 500.0
+Dirty Dishes | 1.0 | null
+Distorted Amber Dye | 11.9 | null
+Doric Style Display Column | 220.0 | null
+Dove Gray Dye | 188.66 | 30.0
+Dragon Fish Jaw | 3.98 | 378.0
+Dragonglory Flower | 1.88 | 1983.0
+Dragonglory Leaf | 0.7 | 8353.0
+Dragonglory Stem | 0.19 | 2783.0
+Draught of Ancient Essence | 17.7 | null
+Draught of Azalea Nectar | 0.06 | null
+Draught of Azoth Oil | 0.93 | null
+Draught of Blessed Water | 1.0 | null
+Draught of Corrupted Essence | 63.0 | null
+Draught of Corrupted Ichor | 69.69 | 2636.0
+Draught of Ectoplasm | 7.0 | null
+Draught of Healing Water | 5000.0 | 1.0
+Draught of Ironwood Sap | 18.18 | 424.0
+Draught of Mana Essence | 234.0 | 22.0
+Draught of Mercury | 183.99 | 44.0
+Draught of Quicksilver | 75.0 | null
+Draught of Sap | 0.16 | 3423.0
+Draught of Viscous Azoth | 0.15 | null
+Draught of Withered Essence | 4.94 | null
+Draught of Wolf Essence | 6.0 | null
+Draught of Wyrdwood Sap | 28.0 | null
+Dreams of the Lost | 1337.0 | null
+Dried Dryad Sap | 3.85 | null
+Drop of Ancient Essence | 0.9 | 9286.0
+Drop of Azalea Nectar | 0.03 | null
+Drop of Azoth Oil | 0.41 | null
+Drop of Blessed Water | 0.11 | null
+Drop of Corrupted Essence | 7.0 | null
+Drop of Corrupted Ichor | 145.0 | null
+Drop of Ectoplasm | 4.7 | null
+Drop of Ironwood Sap | 81.91 | 55.0
+Drop of Mercury | 500.0 | 22.0
+Drop of Quicksilver | 4.97 | null
+Drop of Sap | 0.05 | null
+Drop of Withered Essence | 5.59 | null
+Drop of Wolf Essence | 2.69 | null
+Drop of Wyrdwood Sap | 24.9 | null
+Dryad Bark | 18.99 | null
+Dummy Frame | 140.0 | 40.0
+Dumpling Steamer Set | 55.0 | null
+Dusk and Dawn | 50.0 | null
+Dust Dye | 65.0 | 30.0
+Dynastic Stove | 2500.0 | null
+Dynasty Storage Chest | 1540.0 | 1.0
+Earth Essence | 20.42 | 28.0
+Earth Mote | 1.18 | 6094.0
+Earth Quintessence | 41.4 | 40.0
+Earthshell Tail | 39.97 | 6.0
+Earthspine Flower | 5.71 | 136.0
+Earthspine Leaf | 0.9 | 9995.0
+Earthspine Stem | 1.39 | 869.0
+Earth Wisp | 10.0 | 175.0
+East Flowing Selene Currents | 20.0 | null
+East Flowing Solis Currents | 100.0 | null
+Ebonscale Moon | 66.0 | null
+Ebonscale Moon | 190.0 | 1.0
+Ebonwood | 2.7 | 848.0
+Ebony Apothecary Cabinet | 1456.0 | null
+Ebony Carved Canopy Bed | 94.99 | null
+Ebony Circular Curio Shelf | 900.0 | null
+Ebony Dining Table | 1987.0 | null
+Ebony Dresser | 100.0 | null
+Ebony End Table | 1490.0 | null
+Ebony Fingerboard | 11.94 | 84.0
+Ebony Painted Bamboo Blinds | 800.0 | null
+Ebony Pedestal Shelf | 1000.0 | null
+Ebony Weapon Rack | 229.98 | null
+Ebony Writing Desk | 800.0 | null
+Ectoplasmic Essence | 17.0 | 8.0
+Effigy | 8999.98 | 5.0
+Egede Serpe | 15.0 | null
+Egg | 0.32 | 5390.0
+Eight-tasseled Hanging Lantern | 1000.0 | null
+Elderberry Dye | 20.7 | null
+Electric Eel Bait | 0.54 | 2140.0
+Ember Stone | 9.87 | 89.0
+Emblem of Fortitude | 1.65 | null
+Embossed Wrapping | 4.48 | null
+Embroidered Padding | 1.0 | 167.0
+Emerald | 1.9 | null
+Empowered Counterbalance | 48.89 | 44.0
+Empty Ancient Heart | 0.99 | null
+Empty Scepter | 1.94 | 17.0
+Enchanted Aeternum Sturgeon Caviar | 10.0 | null
+Enchanted Bow String | 15.99 | null
+Enchanted Handle | 3015.0 | 2.0
+Energizing Hearty Meal | 0.07 | null
+Energizing Light Meal | 0.01 | null
+Energizing Light Ration | 1.0 | null
+Energizing Satisfying Meal | 0.01 | null
+Energizing Travel Ration | 0.01 | null
+Engineer\'s Technique Manuals | 598.8 | 1.0
+Enriched Meat Roundel | 0.45 | 10000.0
+Enriched Red Meat | 2.34 | 3510.0
+Enriched Spore Jelly | 0.67 | 9184.0
+Ephemeral Seal | 4777.0 | 1.0
+Etched Handguard | 19.48 | null
+Eternal Ice | 0.99 | null
+Evergreen Armor Shard | 2.0 | 875.0
+Evergreen Resin | 0.99 | null
+Evergreen Weapon Shard | 19.69 | null
+Expert Repair Kit | 99.99 | 300.0
+Exquisite Rune of Holding | 11000.0 | 1.0
+Extra Long Iron Chain | 50.0 | null
+Fae Iron | 1.35 | 1441.0
+Faint Corrupted Insignia | 0.1 | null
+Fall Harvest Turkey | 27.12 | 11.0
+Fancy Shell | 1.91 | 442.0
+Fat Salmon | 400.0 | 30.0
+Feathers | 0.1 | null
+Fellows of Windsward | 3000.0 | 2.0
+Fellows of Windsward | 3400.0 | 1.0
+Fellows of Windsward | 3950.0 | 1.0
+Fellows of Windsward | 2500.0 | 1.0
+Fellows of Windsward | 711.0 | null
+Festival Hanging Lantern | 2543.0 | null
+Festival Wall-mounted Lantern | 3200.0 | null
+Fibers | 0.3 | 10000.0
+Field Peach Dye | 2.94 | null
+Fiery Sludge | 2.4 | 1682.0
+Filet in Mushroom Sauce | 13.33 | 28.0
+Filet with Mint and Cracked Barley | 21.99 | null
+Fine Corrupted Sigil | 0.07 | null
+Firecracker Aeternum Sturgeon | 5.0 | 81.0
+Fire Crystal Core | 6.96 | null
+Fire Essence | 33.13 | 49.0
+Firefly Bait | 0.04 | null
+Firefox | 0.9 | 100.0
+Fire Mote | 1.34 | 750.0
+Fireplace Accessories | 698.0 | null
+Fireplace Books | 500.0 | null
+Fireplace Poker Set | 1900.0 | null
+Fire Quintessence | 72.7 | 39.0
+Fire Wisp | 98.0 | 63.0
+Firewood Pile | 100.0 | null
+Firm Fish Filet | 0.43 | 8886.0
+Fish and Chips | 6.95 | null
+Fish Bait | 0.2 | 2278.0
+Fish Cakes | 16.0 | null
+Fisherman\'s Lament | 169.0 | null
+Fish Filet | 0.33 | 9499.0
+Fish Guts | 0.15 | null
+Fish Headed Hammer | 8.0 | 975.0
+Fishing Net Decoration | 1.99 | null
+Fishnet Rug | 100.0 | null
+Fish Oil | 0.1 | null
+Fish Roe | 31.95 | 15.0
+Fish Sauce | 66.0 | 122.0
+Fish Sword | 7.0 | null
+Fish with Tarragon and Oregano | 0.3 | null
+Fish with Tomato and Basil | 0.15 | null
+Fjord Dye | 25.0 | null
+Flame Core | 2.78 | 14.0
+Flawed Amber | 1.09 | 172.0
+Flawed Amethyst | 0.75 | 149.0
+Flawed Aquamarine | 0.72 | 364.0
+Flawed Carnelian | 0.95 | 316.0
+Flawed Diamond | 0.95 | 583.0
+Flawed Emerald | 1.17 | 117.0
+Flawed Jasper | 0.9 | 128.0
+Flawed Malachite | 0.75 | 404.0
+Flawed Moonstone | 0.98 | 61.0
+Flawed Onyx | 1.15 | 1719.0
+Flawed Opal | 0.89 | 190.0
+Flawed Pearl | 1.6 | 1655.0
+Flawed Ruby | 1.49 | 312.0
+Flawed Sapphire | 0.75 | 653.0
+Flawed Topaz | 0.98 | 152.0
+Flint | 0.16 | 4341.0
+Flintlock Pistols | 9543.0 | 1.0
+Floral Design Accessories | 390.0 | null
+Flour | 1.96 | 2034.0
+Fluffy Stuffing | 53.66 | 98.0
+\\"Flying Dutchman\\" Painting | 292.0 | null
+Food Glyph Stone | 0.94 | 10000.0
+Force of Will | 18.8 | 44.0
+Forest Lichen Dye | 192.55 | null
+Forgemaster\'s Notes | 510.0 | 1.0
+Fortified Spore Jelly | 0.66 | null
+Four-tasseled Hanging Lantern | 490.0 | null
+Fragmented Musket | 0.92 | null
+Fragrant Incense Censer | 6500.0 | 4.0
+Fraying Cloth Rug | 1900.0 | null
+Freezing Lodestone | 2.94 | 220.0
+French Toast | 8.0 | null
+Fresh Flowers Assembly | 49.94 | null
+Freshwater Barrel | 300.0 | null
+Fried Albenaja | 130.0 | null
+Fried Calamari | 2.0 | null
+Frigid Fang | 1.39 | 9851.0
+Frogfish Tail | 0.21 | null
+Frozen Armor Shard | 5.0 | null
+Frozen Basalt Dye | 250.0 | 40.0
+Frozen Fang | 5.0 | null
+Frozen Weapon Shard | 2.69 | 5165.0
+Fruit Salad | 5.5 | null
+Fruit Salad with Toasted Coconut | 9.0 | null
+Fulgurite Resin | 3.0 | null
+Fungal Flesh | 0.37 | 294.0
+Fungal Slime | 0.42 | 2240.0
+Fungal Spores | 0.97 | 1682.0
+Fur | 1.3 | 1153.0
+Fusion Flower Arrangement | 399.0 | null
+Game Meat | 0.24 | 6631.0
+Game Meat Skewers | 0.37 | null
+Game Meat with Citrus Glaze | 20.0 | null
+Game Stuffed Apples with Mushrooms | 1.0 | null
+Garlic | 0.47 | 1.0
+Garlic Bulb Wreath | 8.47 | null
+Garlic Rosemary Poultry | 1.18 | null
+Garlic Steak | 1.0 | null
+Gatherer\'s Rush | 110.0 | null
+Gatherer\'s Rush | 80.0 | null
+Gatherer\'s Rush | 149.0 | null
+Gem Setting Pins | 147.0 | 33.0
+Giant Corpus Lily | 1699.0 | 5.0
+Giant Lizard Egg | 1.2 | null
+Gift Glyph Stone | 300.76 | 10.0
+Gillflower Gills | 1.64 | 308.0
+Ginger | 0.78 | 1279.0
+Gingersnap Cookie | 9.0 | null
+Glacier Resin | 4.69 | null
+Glass Demijohn Jug | 6.9 | null
+Glazed Bear with Sauteed Vegetables | 26.48 | 25.0
+Glazed Melon Bread | 24.98 | null
+Gleaming Lodestone | 1.28 | 5970.0
+Glintstrands | 1.05 | 4084.0
+Glittering Ebony | 21.98 | 1.0
+\\"Glory to Sol\\" Inset Emblem | 10.0 | null
+Glowing Gnufish | 65.97 | 158.0
+Glowing Guardfish | 6.0 | null
+Glowing Mushroom Cap | 2.97 | 1791.0
+Glowing Sap | 2699.0 | 2.0
+Glowing Swamp Moss | 40.3 | 28.0
+Glowworm Bait | 0.09 | 8351.0
+Gold Band | 20.0 | null
+Gold Candelabra | 288.99 | null
+Gold Chain | 12.0 | null
+Goldenrod Brocade Drapes | 480.0 | null
+Goldenrod Brocade Valance | 339.0 | null
+Goldenrod Geometric Rug | 70.0 | null
+Goldenrod Place Setting | 1345.0 | null
+Goldenrod Silk Daybed | 419.0 | null
+Goldenrod Woven Floor Mat | 5000.0 | null
+Golden Scarab | 163.0 | 100.0
+Golden Steel Storage Chest | 2699.0 | 1.0
+Gold Hook | 7.0 | 1447.0
+Gold Ingot | 1.86 | 3136.0
+Gold Ore | 0.34 | 5150.0
+Gold Setting | 2.0 | null
+Gothic Place Setting | 500.0 | null
+Gothic Posh Curtains | 350.0 | null
+Gothic Posh Valance | 119.99 | null
+Gothic Ragged Curtains | 3100.0 | null
+Gothic Velvet Armchair | 2499.66 | null
+Gothic Velvet Captain\'s Bed | 875.0 | null
+Gothic Velvet Dining Chair | 739.0 | null
+Gothic Velvet Footstool | 450.0 | null
+Graceful Ebony Chair | 1100.0 | null
+Graceful Ebony Table | 3999.0 | null
+Graceful Jade Chair | 490.0 | null
+Graceful Jade Table | 800.0 | null
+Graceful Rosewood Chair | 500.0 | null
+Graceful Rosewood Table | 500.0 | null
+Graceful Teak Chair | 99.99 | null
+Graceful Teak Table | 210.0 | null
+Grand Rune of Holding | 1924.99 | 8.0
+Grassy Curtains | 179.0 | null
+Grassy Drape | 111.0 | null
+Grassy Place Setting | 600.0 | null
+Grassy Sheets Bunk Bed | 180.0 | null
+Grassy Valance | 37.99 | null
+Greater Rune of Holding | 1200.0 | 4.0
+Green Clay Pot | 400.0 | null
+Green Pigment | 3.95 | 97.0
+Green Wood | 0.1 | 9251.0
+Gremolata Tenderloin | 65.0 | 20.0
+Grey Streamer Curtains | 60.0 | null
+Grilled Aeternum Sturgeon Flatwraps | 37.77 | null
+Grilled Pork with Spiced Squash | 3.99 | null
+Grilled Poultry with Saffron Rice | 4.75 | null
+Grilled Tenderloin and Vegetables | 14.3 | null
+Grilled Wolf Loin with Seasoned Squash | 10.0 | null
+Grit Dye | 44.0 | null
+Gritty Iron | 900.0 | 1.0
+Grog Crate | 99.0 | null
+Growth-Attuned Spores | 0.1 | null
+Gunpowder | 0.1 | 1404.0
+Gunsmoke Dye | 134.9 | 27.0
+Halibut Viscera | 4.3 | 1455.0
+Hanging Barrel Cactus | 4090.0 | null
+Hanging Basket of Flowers | 109.0 | null
+Hanging Bonsai | 85.0 | null
+Hanging Herb Garden | 4800.0 | 4.0
+Hanging Jungle Vines | 199.0 | 1.0
+Hanging Opuntia Cactus | 3100.0 | null
+Hanging Plant Nursery | 3200.0 | 4.0
+Hanging Pottery | 100.0 | null
+Hanging Sack | 1000.0 | 1.0
+Hanging Wicker Bowls | 1500.0 | null
+Harden Crystal | 19989.0 | 1.0
+Hard-Working Dining Table | 350.0 | null
+Hard-Working Galley Shelf | 379.99 | null
+Hard-Working Half-Barrel Table | 800.0 | null
+Hard-Working Helm Chandelier | 499.0 | null
+Hard-Working Low Bookcase | 100.0 | null
+Hard-Working Scrolled Armoire | 249.99 | null
+Hard-Working Scrolled Desk | 300.0 | null
+Hard-Working Short Dresser | 350.0 | null
+Hard-Working Small Table | 999.0 | null
+Hard-Working Tall Bookcase | 295.0 | null
+Hard-Working Tall Dresser | 125.0 | null
+Hard-Working Vanity Table | 85.0 | null
+Harmonious Reed | 12.75 | 222.0
+Harsh Violet Dye | 150.0 | null
+Harvest Barley Dye | 19.0 | null
+Harvesting Essence | 1.3 | null
+Hatchery Seal of the Brigand | 240.0 | null
+Hatchery Seal of the Cleric | 90.0 | null
+Hatchery Seal of the Druid | 500.0 | null
+Hatchery Seal of the Knight | 100.0 | null
+Hatchery Seal of the Nomad | 100.0 | null
+Hatchery Seal of the Occultist | 100.0 | null
+Hatchery Seal of the Ranger | 40.0 | null
+Hatchery Seal of the Sage | 100.0 | null
+Hatchery Seal of the Scholar | 5.0 | null
+Hatchery Seal of the Soldier | 75.0 | null
+Hatchery Seal of the Warden | 100.0 | null
+Healing Animus | 199.0 | 22.0
+Healing Water Orb | 1925.0 | 5.0
+Heartgem\'s Burden | 100000.0 | null
+Hearty Meal | 0.5 | 100.0
+Hearty Mount Vittles | 99.99 | 4.0
+Herb-crusted Broccoli | 2.0 | null
+Herb-Crusted Corn on the Cob | 4.99 | null
+Herb-Crusted Vegetables | 26.61 | 98.0
+Herb-Roasted Cabbage | 34.89 | null
+Herb-roasted Carrots | 1.49 | null
+Herb-roasted Potatoes | 4.99 | null
+Herb-Roasted Squash | 49.97 | null
+Hewn Log Storage Chest | 98.0 | null
+High Quality Tallow | 120.23 | 9998.0
+Hollow Armor Shard | 4.5 | null
+Hollow Weapon Shard | 6.69 | null
+Honey | 0.57 | 168.0
+Honey Brew | 10.0 | null
+Honeyed Melon | 12.0 | null
+Honey N Biscuits | 0.4 | null
+Honey N Biscuits | 0.67 | null
+Honey N Biscuits | 100.0 | null
+Honey N Biscuits | 1.5 | null
+Honey-Roasted Ham | 18.0 | null
+Honing Acid | 3500.0 | 4.0
+Honor | 120.0 | null
+Honor | 60.0 | null
+Honor | 86.0 | null
+Hope Storage Chest | 1050.0 | 1.0
+Horn | 12.33 | 299.0
+Horned-Tooth Mandje | 22.0 | null
+How Ore You Today | 10.01 | null
+How Ore You Today | 0.8 | null
+How Ore You Today | 0.46 | null
+How Ore You Today | 0.39 | null
+Huangjiu Amphora | 2987.0 | null
+Huge Elk Hoof | 15.69 | 297.0
+Huge Traveler\'s Stone | 0.01 | null
+Huge Wolf Paw | 33.21 | 3323.0
+Human Digit | 120.94 | 3.0
+Human Idol | 18500.0 | 1.0
+Hunter Storage Chest | 698.0 | null
+Hyssop | 0.31 | 8606.0
+Ice Crystal Core | 3.53 | null
+Imitation Bone Wreath | 190.0 | null
+Impossible Geometry Notes | 2.4 | null
+\\"Improbable Pagoda\\" Painting | 999.0 | null
+Influential Concrete Stove | 220.98 | null
+Influential Curtains | 3333.0 | null
+Influential High Bed | 22.0 | null
+Influential Tapestry | 4000.0 | null
+Influential Valance | 30000.0 | null
+Influential Woven Rug | 9000.0 | null
+Infused Alkahest | 12.47 | 246.0
+Infused Ancient Coating | 25.1 | 6.0
+Infused Ancient Ward Potion | 10.0 | 5.0
+Infused Angry Earth Coating | 20.98 | 45.0
+Infused Angry Earth Ward Potion | 9.99 | 22.0
+Infused Arcane Absorption Potion | 55.0 | 100.0
+Infused Arcane Fragment | 2.1 | 688.0
+Infused Armor Fragment | 0.65 | 7877.0
+Infused Beast Coating | 26.5 | 80.0
+Infused Beast Ward Potion | 18.99 | 43.0
+Infused Blight Tincture | 50.0 | null
+Infused Claw | 0.09 | null
+Infused Corrupted Coating | 27.99 | 94.0
+Infused Corrupted Ward Potion | 38.0 | 5.0
+Infused Corruption Tincture | 65.0 | 48.0
+Infused Encumbrance Potion | 34.95 | null
+Infused Engineering Fragment | 1.07 | 327.0
+Infused Fang | 0.78 | 781.0
+Infused Fire Absorption Potion | 43.98 | 100.0
+Infused Focus Potion | 14.99 | 42.0
+Infused Fur | 5.4 | 2196.0
+Infused Health Potion | 0.09 | null
+Infused Human Coating | 21.88 | 96.0
+Infused Human Ward Potion | 10.0 | 8.0
+Infused Jewelry Fragment | 2.29 | 62.0
+Infused Leather | 9.04 | 100.0
+Infused Lightning Absorption Potion | 30.0 | 25.0
+Infused Lost Coating | 25.0 | 100.0
+Infused Lost Ward Potion | 8.99 | 82.0
+Infused Mana Potion | 1.99 | 100.0
+Infused Nature Absorption Potion | 33.99 | 20.0
+Infused Regeneration Potion | 7.94 | 1.0
+Infused Sand | 7990.0 | 45.0
+Infused Silk | 10.07 | 98.0
+Infused Spore Jelly | 11.0 | 81.0
+Infused Void Absorption Potion | 39.0 | 25.0
+Infused Weapon Fragment | 1.35 | 379.0
+Intricate Firearm Lock | 57.8 | null
+Ionic Style Display Column | 200.0 | null
+Iridescent Inlay | 11.0 | 48.0
+Iron Arrow | 0.09 | null
+Iron Battle Medal | 0.44 | 879.0
+Iron-bound Wall-mounted Lantern | 150.0 | null
+Iron Cannonballs | 3000.0 | 2.0
+Iron Cartridge | 0.03 | null
+Iron Corrupted Casing | 0.79 | null
+Iron Cup | 5.97 | null
+Iron Guardsman\'s Insignia | 0.33 | 37.0
+Iron Hide | 0.11 | 6742.0
+Iron Hook | 18.08 | null
+Iron Ingot | 1.3 | 9903.0
+Iron Jug | 19.99 | null
+Iron Ore | 0.42 | 5720.0
+Iron Pan | 1.2 | null
+Iron Pocketwatch | 0.2 | 336.0
+Iron Settler\'s Stove | 75.0 | null
+Iron Storage Chest | 444.0 | null
+Iron Wok Set | 19.0 | null
+Ironwood | 1.55 | 2461.0
+Ironwood Leaves | 1.58 | null
+Ironwood Leaves | 1.0 | null
+Ironwood Planks | 17.89 | 100.0
+Jade Apothecary Cabinet | 949.99 | null
+Jade Carved Canopy Bed | 1200.0 | null
+Jade Circular Curio Shelf | 920.0 | null
+Jade Collar | 1.88 | 4889.0
+Jade Dining Table | 899.0 | null
+Jade Dresser | 749.0 | null
+Jade End Table | 2000.0 | null
+Jade Painted Bamboo Blinds | 29876.0 | null
+Jade Pedestal Shelf | 750.0 | null
+Jade Talisman | 9.9 | 44.0
+Jade Weapon Rack | 825.0 | null
+Jade Writing Desk | 899.0 | null
+Jagged Animal Claw | 1.2 | 9840.0
+Jagged Animal Fang | 0.15 | null
+Jagged Horn | 1.08 | 9942.0
+Jasper | 2.1 | 160.0
+Jewelry Matrix | 10800.0 | 1.0
+Journal of Aeternum Flora | 800.0 | 1.0
+\\"Journey\'s End\\" Painting | 199.0 | null
+Juicy Ham Hock | 0.7 | 2737.0
+Juniper Berry | 0.9 | 2790.0
+Juniper Dye | 5.11 | null
+Lacy Boots | 0.2 | null
+Lacy Gloves | 0.39 | null
+Lacy Hat | 0.23 | null
+Lacy Pants | 0.8 | null
+Lacy Shirt | 0.5 | null
+Large Bass | 48.0 | null
+Large Bear Paw | 1.5 | null
+Large Bluefish | 69.98 | null
+Large Catfish | 9.0 | 50.0
+Large Cod | 73.99 | null
+Large Dragon Fish | 15.0 | 260.0
+Large Ebony Bookcase | 40.0 | null
+Large Electric Eel | 29.0 | 344.0
+Large Elk Hoof | 75.0 | null
+Large Flounder | 85.0 | null
+Large Frogfish | 100.0 | null
+Large Hake | 40.0 | 266.0
+Large Halibut | 32.99 | null
+Large Jade Bookcase | 899.0 | null
+Large Mackerel | 100.0 | 151.0
+Large Madtom | 22.99 | null
+Large Paddlefish | 82.98 | null
+Large Perch | 10.0 | null
+Large Pike | 9.0 | null
+Large Piranha | 11.99 | 84.0
+Large Rosewood Bookcase | 1500.0 | null
+Large Salmon | 4.14 | 299.0
+Large Sculpin | 10.0 | null
+Large Snapper | 35.0 | null
+Large Speartooth Shark | 29.99 | null
+Large Squid | 14.0 | null
+Large Stingray | 18.99 | null
+Large Stone Brazier | 2999.0 | null
+Large Sturgeon | 90.0 | null
+Large Sunfish | 10.0 | null
+Large Swordfish | 15.0 | null
+Large Teak Bookcase | 99.99 | null
+Large Traveler\'s Stone | 350.0 | null
+Large Trout | 3.4 | null
+Last Call | 1.49 | null
+Last Call | 2.99 | null
+Last Call | 8.0 | null
+Last Call | 4.0 | null
+Lattice Screen Divider | 80.0 | null
+Lava Barb | 67.98 | 120.0
+Layered Leather | 4.95 | 500.0
+Layered Silk Boots | 0.6 | null
+Layered Silk Gloves | 0.5 | null
+Layered Silk Mask | 4.0 | null
+Layered Silk Pants | 0.15 | null
+Layered Silk Shirt | 0.5 | null
+Lazulite Marble Bedside Table | 3555.0 | 2.0
+Lazulite Marble Dining Table | 2500.0 | 1.0
+Lazulite Marble Top Dresser | 900.0 | null
+Legendary Bait | 19.98 | 200.0
+Legion Storage Chest | 1299.0 | 1.0
+Legion Towel Rack | 17.45 | null
+Lemon | 12.35 | 311.0
+Letter of Marque | 1.5 | null
+Letter-writing Set with Brush Drying Rack | 4000.0 | null
+Lifebloom Flower | 2.21 | 391.0
+Lifebloom Leaf | 1.31 | 684.0
+Lifebloom Stem | 0.5 | 1206.0
+Life Crystal Core | 4.85 | null
+Life Essence | 27.5 | 154.0
+Life Mote | 1.34 | 4486.0
+Lifemoth Eyes | 3.14 | 3.0
+Life Quintessence | 69.68 | 26.0
+Life Wisp | 8.47 | 87.0
+Light Meal | 0.01 | null
+Lightning Beetle Wings | 33.18 | 13.0
+Light Pewter Hanging Oil Lamp | 43.0 | null
+Light Pewter Lounge Bed | 200.0 | null
+Light Pewter Short Oil Lamp | 399.0 | null
+Light Pewter Tall Oil Lamp | 400.0 | null
+Light Pewter Wall Brazier | 300.0 | null
+Light Ration | 0.01 | null
+Light Wicker-Wrapped Jug | 19.0 | null
+Linen | 1.34 | 1497.0
+Linen Arcane Embroidery | 0.69 | 167.0
+Living Bamboo Planter | 1900.0 | null
+Loaded Dice | 12330.0 | 1.0
+Loamy Lodestone | 1.25 | 6.0
+Lodestone | 0.67 | 412.0
+Lodestone Brick | 4.44 | 407.0
+Long Barrel Countertop | 111.1 | null
+Long Iron Chain | 80.0 | null
+Looting Essence | 0.01 | null
+Low Apothecary Cabinet | 150.0 | null
+Low Quality Tallow | 1.4 | null
+Lumber | 0.2 | 3766.0
+Lumberjack\'s Token | 1890.0 | 1.0
+Luxury Mount Vittles | 34.75 | 25.0
+Madness Incarnate | 8.72 | 44.0
+Madtom Toxins | 1.05 | 904.0
+Magenta Pigment | 25.0 | 100.0
+Magnificent Boots | 0.01 | null
+Magnificent Dress | 0.1 | null
+Magnificent Gloves | 0.1 | null
+Magnificent Hat | 0.01 | null
+Magnificent Pants | 0.02 | null
+Mahogany Armoire | 250.0 | null
+Mahogany Barstool | 350.0 | null
+Mahogany Cabinet | 200.0 | null
+Mahogany Casual Chair | 380.0 | null
+Mahogany Chest of Drawers | 300.0 | null
+Mahogany Desk | 240.0 | null
+Mahogany Dining Chair | 299.0 | null
+Mahogany Dresser | 750.0 | null
+Mahogany End Table | 200.0 | null
+Mahogany Full Bed | 200.0 | null
+Mahogany Large Bookcase | 998.99 | null
+Mahogany Large Table | 3000.0 | null
+Mahogany Small Bookcase | 390.0 | null
+Mahogany Small Table | 170.0 | null
+Mahogany Stain | 0.04 | null
+Mahogany Wall Shelf | 1000.0 | null
+Majestic Boots | 0.2 | null
+Majestic Dress | 0.2 | null
+Majestic Gloves | 0.1 | null
+Majestic Hat | 0.18 | null
+Majestic Pants | 0.2 | null
+Major Ancients Combat Trophy | 14498.54 | 1.0
+Major Angry Earth Combat Trophy | 4003.0 | 1.0
+Major Arcana Crafting Trophy | 2154.0 | 1.0
+Major Armoring Crafting Trophy | 19974.0 | 1.0
+Major Cooking Crafting Trophy | 3073.0 | 1.0
+Major Corrupted Combat Trophy | 15688.0 | 1.0
+Major Engineering Crafting Trophy | 2718.0 | 1.0
+Major Fishing Gathering Trophy | 2250.0 | 1.0
+Major Harvesting Gathering Trophy | 4080.0 | 1.0
+Major Human Combat Trophy | 32390.0 | 1.0
+Major Logging Gathering Trophy | 5000.0 | 1.0
+Major Loot Luck Trophy | 34749.99 | 1.0
+Major Lost Combat Trophy | 11886.0 | 1.0
+Major Mining Gathering Trophy | 6999.0 | 1.0
+Major Rune of Holding | 590.0 | 2.0
+Major Skinning Gathering Trophy | 4444.0 | 1.0
+Major Weaponsmithing Crafting Trophy | 3060.0 | 1.0
+Major Wildlife Combat Trophy | 1094.97 | 1.0
+Malachite | 1.68 | 310.0
+Mandje Mandje | 0.99 | null
+Maple Armoire | 50.0 | null
+Maple Barstool | 85.0 | null
+Maple Cabinet | 100.0 | null
+Maple Casual Chair | 100.0 | null
+Maple Chest of Drawers | 300.0 | null
+Maple Desk | 69.0 | null
+Maple Dining Chair | 95.0 | null
+Maple Dresser | 20.0 | null
+Maple End Table | 69.99 | null
+Maple Full Bed | 99.0 | null
+Maple Large Bookcase | 188.0 | null
+Maple Large Table | 50.0 | null
+Maple Small Bookcase | 179.99 | null
+Maple Small Table | 15.0 | null
+Maple Stain | 0.4 | 10000.0
+Maple Wall Shelf | 35.0 | null
+Map of Aeternum | 350.0 | null
+Marauder Barbarian Seal | 24.99 | null
+Marauder Brigand Seal | 200.0 | null
+Marauder Cleric Seal | 49.99 | null
+Marauder Occultist Seal | 50.0 | null
+Maritime Place Setting | 4.39 | null
+Maritime Posh Curtains | 345.99 | null
+Maritime Posh Valance | 250.0 | null
+Maritime Ragged Curtains | 60.0 | null
+Maritime Velvet Armchair | 200.0 | null
+Maritime Velvet Captain\'s Bed | 384.0 | null
+Maritime Velvet Dining Chair | 333.0 | null
+Maritime Velvet Footstool | 300.0 | null
+Massive Bear Paw | 0.22 | null
+Massive Turkey Leg | 345.0 | 3.0
+Master Repair Kit | 14.95 | 325.0
+Masterwork Material Converter | 1.97 | 838.0
+Maudlinbug Haze | 750.0 | null
+Maudlinbug Haze | 999.0 | null
+Mealiewrap | 7.0 | null
+Meal Prep Dishes | 15.0 | null
+Meal Prep Set | 350.0 | null
+Meat Bait | 0.01 | null
+Meatloaf | 5.0 | null
+Meat Pie | 6.0 | null
+Mediterranean Concrete Stove | 3499.0 | null
+Mediterranean Curtains | 5000.0 | null
+Mediterranean Curule Seat | 2500.0 | null
+Mediterranean Dining Chair | 2987.0 | 3.0
+Mediterranean High Bed | 1456.0 | null
+Mediterranean Place Setting | 4987.0 | null
+Mediterranean Valance | 8765.0 | null
+Mediterranean Woven Rug | 50000.0 | null
+Medium Bass | 70.21 | null
+Medium Bluefish | 290.0 | null
+Medium Carmine Dye | 37.99 | 25.0
+Medium Catfish | 6.0 | 108.0
+Medium Cod | 12.97 | null
+Medium Dragon Fish | 2.88 | 294.0
+Medium Electric Eel | 49.99 | null
+Medium Flounder | 94.0 | null
+Medium Frogfish | 50.0 | null
+Medium Hake | 11.0 | null
+Medium Halibut | 6.99 | null
+Medium Mackerel | 4.98 | null
+Medium Madtom | 89.0 | null
+Medium Paddlefish | 21.4 | null
+Medium Perch | 95.0 | null
+Medium Pike | 13.0 | null
+Medium Piranha | 30.0 | null
+Medium Salmon | 14.87 | 299.0
+Medium Sculpin | 14.5 | 109.0
+Medium Snapper | 3.9 | null
+Medium Speartooth Shark | 24.0 | null
+Medium Squid | 16.0 | null
+Medium Stingray | 20.0 | null
+Medium Sturgeon | 75.0 | null
+Medium Sunfish | 89.0 | null
+Medium Swordfish | 100.0 | null
+Medium Trout | 85.0 | null
+Melon | 0.41 | 4219.0
+Melon Cr\\u00e8me Tart | 1.95 | null
+Melon Infusion | 45.0 | null
+Memories of Brightwood | 430.0 | null
+Memories of Brightwood | 3.99 | null
+Memories of Brightwood | 0.87 | null
+Memories of Brightwood | 300.0 | null
+Memories of Brightwood | 45.0 | null
+Memories of Brightwood | 0.29 | null
+Memories of Brightwood | 280.0 | null
+Memories of Brightwood | 6.0 | null
+Memories of Brightwood | 0.99 | null
+Memories of Brightwood | 390.0 | null
+Memories of Brightwood | 2.99 | null
+Memories of Brightwood | 0.45 | null
+Mercurial Token | 1000.0 | 1.0
+Metallic Boneweave | 7.5 | 131.0
+Midnight Harmony | 50.0 | null
+Midnight Harmony | 3.0 | null
+Midnight Harmony | 28.0 | null
+Midnight Harmony | 1.0 | null
+Milk | 0.57 | 690.0
+Mineral Green Dye | 8.49 | null
+Minor Ancients Combat Trophy | 99.0 | null
+Minor Angry Earth Combat Trophy | 190.0 | null
+Minor Arcana Crafting Trophy | 160.5 | null
+Minor Armoring Crafting Trophy | 250.0 | null
+Minor Cooking Crafting Trophy | 99.53 | 1.0
+Minor Corrupted Combat Trophy | 96.0 | null
+Minor Engineering Crafting Trophy | 52.9 | null
+Minor Fishing Gathering Trophy | 244.0 | null
+Minor Harvesting Gathering Trophy | 89.0 | null
+Minor Human Combat Trophy | 248.0 | null
+Minor Logging Gathering Trophy | 90.64 | null
+Minor Loot Luck Trophy | 3748.0 | 1.0
+Minor Lost Combat Trophy | 100.0 | null
+Minor Mining Gathering Trophy | 330.0 | null
+Minor Rune of Holding | 200.0 | 10.0
+Minor Skinning Gathering Trophy | 160.0 | null
+Minor Weaponsmithing Crafting Trophy | 83.0 | null
+Minor Wildlife Combat Trophy | 175.55 | null
+Minstrel Boots | 0.2 | null
+Minstrel Breeches | 0.1 | null
+Minstrel Gloves | 0.19 | null
+Minstrel Hood | 0.1 | null
+Minstrel Tunic | 0.8 | null
+Mint | 16.63 | 396.0
+Moderate Drinking Set | 2000.0 | null
+Molten Lodestone | 1.41 | 1739.0
+Monstera Foliage | 899.0 | null
+Moonlit Shadows | 98.0 | null
+Moonstone | 1.6 | 942.0
+Morning Chores | 1.9 | null
+Morning Chores | 0.01 | null
+Morning Chores | 0.01 | null
+Morning Chores | 10.5 | null
+Morning Chores | 0.1 | null
+Morning Chores | 0.01 | null
+Morning Chores | 6.8 | null
+Morning Chores | 5.08 | null
+Morning Chores | 0.01 | null
+Mosaiced Cypress Wooden Stand | 500.0 | null
+Mosaiced Olive Wooden Stand | 230.0 | null
+Mossbourne Boots | 1200.0 | null
+Mossbourne Coat | 1000.0 | null
+Mossbourne Cuisses | 600.0 | null
+Mossbourne Gauntlets | 2200.0 | null
+Mossbourne Gloves | 5000.0 | null
+Mossbourne Greaves | 4500.0 | null
+Mossbourne Hat | 1500.0 | null
+Mossbourne Headgear | 900.0 | null
+Mossbourne Helm | 1432.0 | null
+Mossbourne Mitts | 1900.0 | null
+Mossbourne Pants | 8000.0 | null
+Mossbourne Plate | 12000.0 | null
+Mossbourne Shirt | 4500.0 | null
+Mossbourne Shoes | 8500.0 | null
+Mossbourne Trousers | 6000.0 | null
+Mossy Rock Storage Chest | 200.0 | null
+\\"Mountain Dawn\\" Painting | 90.0 | null
+Mountain Glyph Stone | 336.97 | 10.0
+Mount Vittles | 59.68 | 40.0
+Murky Water Dye | 12.09 | null
+Mushroom | 0.27 | 532.0
+Mushroom Fins | 0.6 | 9990.0
+My Camp | 4.99 | null
+My Camp | 1234.0 | null
+My Camp | 35.0 | null
+My Home | 840.1 | null
+My Home | 35.0 | null
+My Home | 65.0 | null
+My Home | 47.0 | null
+My New Home | 0.01 | null
+Mythril Band | 99.99 | null
+Mythril Chain | 99.99 | null
+Mythril Hook | 99.99 | null
+Mythril Ingot | 44.45 | 48.0
+Mythril Ore | 1.22 | 3700.0
+Mythril Setting | 50.0 | null
+Narrow Ebony Bookcase | 600.0 | null
+Narrow Jade Bookcase | 799.0 | null
+Narrow Rosewood Bookcase | 200.0 | null
+Narrow Teak Bookcase | 350.0 | null
+Natural Clay Amphora | 81.18 | null
+Natural Gray Dye | 225.0 | null
+Nereid Doubloon | 8.95 | 7.0
+Nightcrawler Bait | 0.02 | null
+Night Glyph Stone | 225.0 | 9.0
+Nine-Pound Hammer | 110.0 | null
+Nine-Pound Hammer | 3.98 | null
+Nine-Pound Hammer | 70.0 | null
+Nine-Pound Hammer | 3.99 | null
+Nine-Pound Hammer | 599.0 | null
+Nine-Pound Hammer | 5.97 | null
+Nine-Pound Hammer | 140.0 | null
+Nine-Pound Hammer | 3.9 | null
+Notes on Aeternum Fauna | 1779.0 | 2.0
+Nut | 0.57 | 85.0
+Nutmeg | 21.76 | 10.0
+Oak Armoire | 100.0 | null
+Oak Barstool | 148.99 | null
+Oak Cabinet | 215.0 | null
+Oak Casual Chair | 149.0 | null
+Oak Chest of Drawers | 148.99 | null
+Oak Desk | 100.0 | null
+Oak Dining Chair | 100.0 | null
+Oak Dresser | 150.0 | null
+Oak End Table | 25.0 | null
+Oak Full Bed | 400.0 | null
+Oak Large Bookcase | 350.0 | null
+Oak Large Table | 350.0 | null
+Oak Small Bookcase | 150.0 | null
+Oak Small Table | 250.0 | null
+Oak Stain | 0.03 | null
+Oak Wall Shelf | 400.0 | null
+Oak Wine Cask | 100.0 | null
+Oar | 100.0 | 263.0
+Oar-nament | 0.9 | null
+Obsidian Flux | 0.29 | 2743.0
+Obsidian Sandpaper | 0.11 | 9963.0
+Obsidian Voidstone | 8.48 | 34.0
+Oil | 0.43 | 376.0
+Old Bones | 1.78 | null
+Old Bones | 6499.0 | 4.0
+Old Books Row Long | 700.0 | null
+Old Books Row Short | 82.0 | null
+Old Books Stack | 14.0 | null
+Old Desk Chair | 100.0 | null
+Old Hardtack | 0.01 | null
+Old Log Stool | 50.0 | null
+Old Placesetting | 7.0 | null
+Old Straw Cot | 100.0 | null
+Old Windsward Shack | 30.0 | null
+Old Windsward Shack | 150.0 | null
+Old Windsward Shack | 38.99 | null
+Old Windsward Shack | 6.5 | null
+Old Wood Dining Table | 100.0 | null
+Old Wood | 100.0 | null
+Old Wood | 2.49 | null
+Old Wooden Bunk Bed | 460.0 | null
+Old Wooden Full Bed | 50.0 | null
+Old Wood | 350.0 | null
+Old Wood | 4.99 | null
+Old Wood | 29.0 | null
+Old Wood | 4.9 | null
+Old Wood | 498.99 | 1.0
+Old Wood | 3.19 | null
+Old Wood Storage Chest | 198.0 | null
+Old World Globe | 200.0 | null
+Olive Chest of Drawers | 666.66 | null
+Olive Family Shrine | 100.0 | null
+Olive Large Bookcase | 399.0 | null
+Olive Small Bookcase | 35.0 | null
+Olive Wood Armchair | 286.0 | null
+Olive Wood Armoire | 100.0 | null
+Olive Wooden Desk | 35.0 | null
+Olive Wooden Wall Shelf | 320.0 | null
+Olive Wood Small Table | 250.0 | null
+Onion | 0.58 | 5842.0
+Onion Smothered Pork | 15.0 | null
+Onyx | 1.79 | 77.0
+Opal | 1.6 | 484.0
+Open Book | 400.0 | null
+Open Rickety Bookcase | 100.0 | null
+Orange | 2.0 | 374.0
+Orange Pigment | 17.0 | 30.0
+Orange Thyme Turkey Breast | 25.0 | null
+Oregano | 0.6 | 530.0
+Orichalcum Arcanist\'s Charm | 29.88 | 5.0
+Orichalcum Armorer\'s Charm | 109.0 | 2.0
+Orichalcum Arrow | 0.58 | 1000.0
+Orichalcum Band | 90.0 | 100.0
+Orichalcum Blunderbuss Charm | 18.95 | 28.0
+Orichalcum Botanists Charm | 0.25 | null
+Orichalcum Bow Charm | 34.9 | 28.0
+Orichalcum Cartridge | 0.54 | 944.0
+Orichalcum Chain | 200.0 | 96.0
+Orichalcum Chef\'s Charm | 90.9 | 16.0
+Orichalcum Engineer\'s Charm | 24.9 | 10.0
+Orichalcum Fire Staff Charm | 790.0 | 25.0
+Orichalcum Flail Charm | 4220.0 | 1.0
+Orichalcum Great Axe Charm | 7.0 | null
+Orichalcum Greatsword Charm | 272.0 | 50.0
+Orichalcum Hatchet Charm | 18.9 | null
+Orichalcum Hook | 35.0 | null
+Orichalcum Ice Gauntlet Charm | 28.9 | null
+Orichalcum Ingot | 18.92 | 300.0
+Orichalcum Jewelcrafters Charm | 47.95 | 24.0
+Orichalcum Life Staff Charm | 58.9 | 35.0
+Orichalcum Lumberjacks Charm | 1.0 | 268.0
+Orichalcum Miners Charm | 2.0 | null
+Orichalcum Musket Charm | 9.9 | null
+Orichalcum Ore | 1.92 | 2105.0
+Orichalcum Rapier Charm | 750.0 | 5.0
+Orichalcum Setting | 89.0 | null
+Orichalcum Settler\'s Stove | 230.0 | null
+Orichalcum Shield Charm | 13.98 | null
+Orichalcum Skinners Charm | 5.0 | 239.0
+Orichalcum Spear Charm | 67.0 | 22.0
+Orichalcum Sword Charm | 13.9 | null
+Orichalcum Void Gauntlet Charm | 1100.0 | 5.0
+Orichalcum War Hammer Charm | 4.89 | null
+Orichalcum Weaponsmith\'s Charm | 91.0 | null
+Ornate Bronze Stove | 500.0 | null
+Ornate Cast-Iron Stove | 228.99 | null
+Ornate Copper Stove | 100.0 | null
+Ornate Gold Stove | 925.0 | null
+Ottoman Tea Set | 1500.0 | 1.0
+Oval Cerulean Rug | 99.0 | null
+Oval Gothic Rug | 200.0 | 1.0
+Oyster | 500.0 | 4.0
+Oyster Bait | 1.78 | 1082.0
+Paddlefish Gills | 0.5 | null
+Paella | 38.0 | null
+Painted Ebony Chest | 179.99 | null
+Painted Jade Chest | 1990.0 | null
+Painted Rosewood Chest | 1060.0 | null
+Painted Teak Chest | 200.0 | null
+Pale Cobalt Dye | 29.9 | null
+Paper-wrapped Parcel | 49.0 | null
+Paprika | 0.64 | 1959.0
+Paradise Vermilion Dye | 169.9 | 20.0
+Parsley | 0.49 | 192.0
+Passive-aggressive Wall Note | 2.99 | null
+Pasta | 0.23 | 1989.0
+Pastry Crust | 2.88 | 1144.0
+Patch of Corrupted Cloth | 10.0 | null
+Path Less Traveled | 987.0 | null
+Path Less Traveled | 4200.0 | 6.0
+Path Less Traveled | 2000.0 | null
+Pattern | 144.0 | null
+Pattern | 94.44 | null
+Pattern | 344.0 | null
+Pattern | 40.0 | null
+Pattern | 49.99 | null
+Pattern | 400.0 | null
+Pattern | 29.0 | 200.0
+Pattern | 120.0 | null
+Pattern | 21.99 | 200.0
+Pattern | 8.9 | null
+Pattern | 89.99 | 20.0
+Pattern | 6.9 | null
+Pattern | 9.5 | 156.0
+Pattern | 14.8 | null
+Pattern | 21.0 | 200.0
+Pattern | 32.9 | null
+Pattern | 50.0 | 200.0
+Pattern | 30.9 | null
+Pattern | 12.0 | 20.0
+Pattern | 24.9 | null
+Pattern | 17.77 | 12.0
+Pattern | 13.8 | null
+Pattern | 8.99 | 200.0
+Pattern | 13.9 | null
+Pattern | 74.0 | 200.0
+Pattern | 8.9 | null
+Pattern | 21.0 | null
+Pattern | 49.5 | null
+Pattern | 19.0 | 200.0
+Pattern | 19.5 | null
+Pattern | 100.0 | 20.0
+Pattern | 19.9 | null
+Pattern | 23.9 | 269.0
+Pattern | 11.8 | null
+Pattern | 10.99 | 10.0
+Pattern | 14.94 | null
+Pattern | 8999.0 | null
+Pattern | 116.0 | null
+Pattern | 600.0 | null
+Pattern | 90.0 | null
+Pattern | 254.0 | null
+Pattern | 61.0 | null
+Pattern | 49.0 | null
+Pattern | 117.0 | null
+Pattern | 68.98 | null
+Pattern | 199.98 | null
+Pattern | 29.99 | null
+Pattern | 290.0 | null
+Pattern | 1367.0 | null
+Pattern | 160.65 | null
+Pattern | 69.66 | null
+Pattern | 1000.0 | null
+Pattern | 90.0 | null
+Pattern | 250.0 | null
+Pattern | 1222.0 | null
+Pattern | 2500.0 | null
+Pattern | 8888.0 | null
+Pattern | 355.44 | null
+Pattern | 670.0 | null
+Pattern | 145.0 | null
+Pattern | 100.0 | null
+Pattern | 80.0 | null
+Pattern | 140.0 | null
+Pattern | 280.0 | null
+Pattern | 53.0 | null
+Pattern | 99.0 | null
+Pattern | 76.0 | null
+Pattern | 75.0 | null
+Pattern | 41.0 | null
+Pattern | 270.0 | null
+Pattern | 81.0 | null
+Pattern | 800.0 | null
+Pattern | 250.0 | null
+Pattern | 20.0 | null
+Pattern | 344.0 | null
+Pattern | 40.0 | null
+Pattern | 135.0 | null
+Pattern | 12000.0 | null
+Pattern | 4000.0 | null
+Pattern | 5.0 | null
+Pattern | 275.0 | null
+Pattern | 444.0 | null
+Pattern | 14.0 | null
+Pattern | 900.0 | null
+Pattern | 10.0 | null
+Pattern | 99.0 | null
+Pattern | 75.0 | null
+Pattern | 418.0 | null
+Pattern | 38.0 | null
+Pattern | 81.0 | null
+Pattern | 30.0 | null
+Pattern | 140.0 | null
+Pattern | 205.0 | null
+Pattern | 567.0 | null
+Pattern | 50.0 | null
+Pattern | 100.0 | null
+Pattern | 8500.0 | null
+Pattern | 10000.0 | null
+Pattern | 39.63 | null
+Pattern | 96.65 | null
+Pattern | 19.64 | null
+Pattern | 90.0 | null
+Pattern | 43.98 | null
+Pattern | 100.0 | null
+Pattern | 6.0 | null
+Pattern | 300.0 | null
+Pattern | 92.65 | null
+Pattern | 99.0 | null
+Pattern | 79.0 | null
+Pattern | 45.0 | 20.0
+Pattern | 140.0 | 8.0
+Pattern | 125.0 | 20.0
+Pattern | 28.0 | null
+Pattern | 88.0 | 20.0
+Pattern | 332.65 | 9.0
+Pattern | 194.0 | 20.0
+Pattern | 50.0 | null
+Pattern | 200.0 | 20.0
+Pattern | 41.0 | 3.0
+Pattern | 130.0 | 20.0
+Pattern | 30.0 | null
+Pattern | 25.0 | 20.0
+Pattern | 194.0 | null
+Pattern | 455.0 | 20.0
+Pattern | 78.59 | 6.0
+Pattern | 939.0 | 20.0
+Pattern | 50.0 | null
+Pattern | 268.0 | 20.0
+Pattern | 68.0 | null
+Pattern | 699.0 | 20.0
+Pattern | 195.0 | null
+Pattern | 387.0 | 20.0
+Pattern | 30.0 | null
+Pattern | 45.0 | null
+Pattern | 48.0 | null
+Pattern | 45.0 | 20.0
+Pattern | 99.0 | null
+Pattern | 149.0 | 20.0
+Pattern | 72.0 | null
+Pattern | 799.97 | 20.0
+Pattern | 100.0 | null
+Pattern | 199.0 | 100.0
+Pattern | 37.65 | 1.0
+Pattern | 449.0 | 20.0
+Pattern | 298.0 | null
+Pattern | 270.0 | null
+Pattern | 94.0 | 1.0
+Pattern | 390.0 | null
+Pattern | 90.0 | null
+Pattern | 350.95 | null
+Pattern | 129.0 | null
+Pattern | 100.0 | null
+Pattern | 49.5 | null
+Pattern | 289.0 | null
+Pattern | 9999.0 | null
+Pattern | 3999.0 | null
+Pattern | 5000.0 | null
+Pattern | 2100.0 | null
+Pattern | 4000.0 | null
+Pattern | 3000.0 | null
+Pattern | 9000.0 | null
+Pattern | 1000.0 | null
+Pattern | 10000.0 | null
+Pattern | 15.0 | null
+Pattern | 190.0 | null
+Pattern | 1222.0 | null
+Pattern | 10000.0 | null
+Pattern | 47.55 | null
+Pattern | 74.0 | null
+Pattern | 99.0 | null
+Pattern | 50.0 | null
+Pattern | 275.95 | null
+Pattern | 1300.0 | null
+Pattern | 122.0 | null
+Pattern | 75.0 | null
+Pattern | 29.59 | null
+Pattern | 950.0 | null
+Pattern | 1950.0 | null
+Pattern | 11500.0 | null
+Pattern | 2100.0 | null
+Pattern | 8500.0 | null
+Pattern | 3000.0 | null
+Pattern | 9000.0 | null
+Pattern | 2500.0 | null
+Pattern | 10000.0 | null
+Pattern | 19999.0 | null
+Pattern | 45.0 | null
+Pattern | 490.0 | null
+Pattern | 331.0 | null
+Pattern | 400.0 | null
+Pearl | 3.36 | 20.0
+Pearl Plectrum | 1433.8 | 1.0
+Peppercorn | 0.58 | 657.0
+Perfect Corrupted Sigil | 0.44 | 9367.0
+Pesto Dye | 22.0 | null
+Pesto-stuffed Turkey Breast | 19.99 | null
+Petalcap | 1.28 | 548.0
+Petrification Charm | 2500.0 | 10.0
+Petrified Fire | 0.96 | null
+Petrified Fragments | 0.13 | 9151.0
+Petrified Heart | 551.99 | 10.0
+Petrified Vine | 9999.0 | 1.0
+Petrified Wood | 0.13 | 8502.0
+Phasefiber | 1.24 | 1354.0
+Philosopher\'s Stone | 450.0 | 2.0
+Phoenixweave | 20.5 | 346.0
+Picnic Table | 5000.0 | null
+Pile of Bananas | 30.0 | null
+\\"Pine Bonsai\\" Painting | 990.0 | null
+Piranha Tooth | 33.0 | 10.0
+Pirate Anchor | 9876.0 | null
+Pirate Crew Keg | 56.0 | null
+Pirate Jewel Box | 19876.0 | null
+Pirate Keg Kitchen Island | 3000.0 | null
+Pirate Nightlight | 5900.0 | null
+Pirate Rigging | 2.45 | null
+Pirate Rum Crate | 2.0 | null
+Pirate Sign | 133.0 | null
+Pirate Washtub | 3.0 | null
+Pirate Weapon Arrangement | 49.0 | null
+Platecap Flesh | 0.6 | 1936.0
+Platinum Band | 19.99 | null
+Platinum Chain | 39.99 | null
+Platinum Hook | 100.0 | null
+Platinum Ingot | 3.09 | 1000.0
+Platinum Ore | 0.18 | 2400.0
+Platinum Setting | 100.0 | null
+Poached Fish with Lemon and Dill | 1.4 | null
+Poacher\'s Pie | 39.67 | 29.0
+Poignant Flower Arrangement | 25.0 | null
+Poignant Flower Hanging Basket | 2000.0 | null
+Poison Sac | 59.97 | 495.0
+Polished Marble Storage Chest | 4487.0 | 1.0
+Poppy Seeds | 1.0 | 986.0
+Pork | 0.19 | 8865.0
+Pork Belly | 0.47 | 2441.0
+Pork Belly Fried Rice | 5.98 | 41.0
+Pork Chops and Apple Sauce | 1.0 | null
+Pork Chops with Pan Gravy | 8.0 | null
+Potato | 1.21 | 230.0
+Potent Mount Vitamins | 5.66 | 147.0
+Pot of Blue Flowers | 22.0 | null
+Pot of Pink Flowers | 46.96 | null
+Pot of Winter Flowers | 179.99 | null
+Potted Candelabra Cactus | 40.0 | null
+Potted Mulberry Plant | 99.0 | null
+Potted Opuntia Cactus | 15.0 | null
+Potted Saguaro Cactus | 75.0 | null
+Potted Triangle Cactus | 98.99 | null
+Potter\'s Sprint | 4.13 | null
+Potter\'s Sprint | 1.8 | null
+Potter\'s Sprint | 0.49 | null
+Potter\'s Sprint | 100.0 | null
+Poultry | 1.1 | 1689.0
+Poultry Breast | 17.96 | 20.0
+Poultry Thigh | 6.56 | 13.0
+Poultry with Roasted Potatoes | 60.0 | 64.0
+Powder Horn | 220.0 | null
+Powerful Alkahest | 0.38 | null
+Powerful Ancient Coating | 1.88 | null
+Powerful Ancient Ward Potion | 8.99 | 70.0
+Powerful Angry Earth Coating | 0.07 | null
+Powerful Angry Earth Ward Potion | 6.66 | null
+Powerful Arcane Absorption Potion | 13.3 | null
+Powerful Beast Coating | 1.43 | null
+Powerful Beast Ward Potion | 8.1 | null
+Powerful Blight Tincture | 4.7 | null
+Powerful Corrupted Coating | 2.79 | null
+Powerful Corrupted Ward Potion | 8.7 | 95.0
+Powerful Corruption Tincture | 8.0 | null
+Powerful Encumbrance Potion | 12.95 | null
+Powerful Fire Absorption Potion | 10.8 | 100.0
+Powerful Focus Potion | 1.0 | null
+Powerful Gemstone Dust | 137.93 | 100.0
+Powerful Health Potion | 0.09 | null
+Powerful Honing Stone | 133.58 | 29.0
+Powerful Human Coating | 4.5 | null
+Powerful Human Ward Potion | 13.0 | 100.0
+Powerful Incense | 30.3 | 92.0
+Powerful Lightning Absorption Potion | 12.0 | null
+Powerful Lost Coating | 3.3 | null
+Powerful Lost Ward Potion | 11.8 | 100.0
+Powerful Mana Potion | 0.08 | null
+Powerful Nature Absorption Potion | 13.0 | null
+Powerful Oakflesh Balm | 58.09 | 1.0
+Powerful Proficiency Booster | 170.89 | 24.0
+Powerful Regeneration Potion | 1.98 | 2.0
+Powerful Spore Jelly | 0.79 | null
+Powerful Void Absorption Potion | 9.9 | null
+Precision Armoring Tools | 14028.0 | 1.0
+Precision Engineering Tools | 749.99 | 1.0
+Prime Armadillo Meat | 62.89 | 99.0
+Prime Red Meat | 0.25 | 1517.0
+Prime Scorpion Meat | 0.35 | 1264.0
+Prismatic Band | 499.0 | null
+Prismatic Barb | 247.11 | 66.0
+Prismatic Block | 813.99 | 3.0
+Prismatic Cloth | 180.97 | 20.0
+Prismatic Hook | 820.0 | null
+Prismatic Ingot | 517.9 | 6.0
+Prismatic Leather | 422.99 | 87.0
+Prismatic Planks | 212.97 | 11.0
+Prismatic Scarab | 3889.0 | 1.0
+Prismatic Setting | 1800.0 | null
+Pristine Amber | 49.7 | 17.0
+Pristine Amethyst | 47.85 | 66.0
+Pristine Animal Claw | 0.4 | 1110.0
+Pristine Animal Fang | 0.1 | null
+Pristine Aquamarine | 46.2 | 64.0
+Pristine Bear Claw | 34.0 | 51.0
+Pristine Bear Pelt | 24.99 | 36.0
+Pristine Carnelian | 44.2 | 46.0
+Pristine Diamond | 44.69 | 50.0
+Pristine Emerald | 48.7 | 50.0
+Pristine Horn | 22.98 | 1835.0
+Pristine Jasper | 46.25 | 16.0
+Pristine Malachite | 43.89 | 11.0
+Pristine Moonstone | 45.6 | 17.0
+Pristine Onyx | 45.0 | 1.0
+Pristine Opal | 63.96 | 113.0
+Pristine Pearl | 213.0 | 4.0
+Pristine Ruby | 49.55 | 25.0
+Pristine Sapphire | 50.0 | 25.0
+Pristine Topaz | 46.95 | 25.0
+Pristine Whetstone | 0.1 | 2759.0
+Pristine Wolf Claw | 0.17 | 3395.0
+Protective Straw Wreath | 0.5 | null
+Pure Resin | 3200.0 | 2.0
+Pure Solvent | 0.07 | 5000.0
+Purple Pigment | 8.0 | 77.0
+Putrid Bark | 6.97 | 297.0
+Putrid Lodestone | 2.7 | 2643.0
+Putrid Plum Dye | 34.4 | null
+Quartermaster\'s Notes | 169.0 | 3.0
+Quillbark | 4.65 | 174.0
+Rabbit\'s Foot | 2390.0 | 1.0
+Rabbit Stew | 28.8 | 6.0
+Rage-Attuned Spores | 0.01 | null
+Ragehide | 2.95 | 3931.0
+Raider Boots | 4999.0 | null
+Raider Breastplate | 100.0 | null
+Raider Cloth Boots | 1111.0 | null
+Raider Cloth Coat | 2500.0 | null
+Raider Cloth Gloves | 1000.0 | null
+Raider Cloth Hat | 400.0 | null
+Raider Cloth Pants | 4500.0 | null
+Raider Cuisses | 2000.0 | null
+Raider Gauntlets | 4000.0 | null
+Raider Helm | 2350.0 | null
+Raider Leather Boots | 1050.0 | null
+Raider Leather Coat | 5100.0 | null
+Raider Leather Gloves | 4450.0 | null
+Raider Leather Hat | 3000.0 | null
+Raider Leather Pants | 999.99 | null
+Rainsong | 2.84 | null
+Ravioli with Brown Butter and Sage | 15.0 | null
+Rawhide | 0.52 | 1284.0
+Raw Sienna Dye | 94.55 | null
+Ray-Finned Barb | 48.0 | null
+Reaper Resin | 11.98 | null
+Recipe | 3000.0 | 2.0
+Recipe | 499.0 | null
+Recipe | 14.95 | null
+Recipe | 39.0 | null
+Recipe | 75.0 | null
+Recipe | 1999.0 | 2.0
+Recipe | 99.0 | null
+Recipe | 40.0 | null
+Recipe | 300.0 | null
+Recipe | 12.5 | null
+Recipe | 89.0 | null
+Recipe | 222.0 | null
+Recipe | 150.0 | null
+Recipe | 74.0 | null
+Recipe | 947.36 | null
+Recipe | 44.0 | null
+Recipe | 127.0 | null
+Recipe | 299.0 | null
+Recipe | 100.0 | null
+Recipe | 15.0 | null
+Recipe | 249.0 | null
+Recipe | 100.0 | null
+Recipe | 170.0 | null
+Recipe | 650.0 | 6.0
+Recipe | 200.0 | null
+Recipe | 280.0 | null
+Recipe | 97.0 | null
+Recipe | 3000.0 | null
+Recipe | 230.0 | null
+Recipe | 150.0 | null
+Recipe | 89.0 | null
+Recipe | 77.0 | null
+Recipe | 220.0 | 1.0
+Recipe | 15.85 | null
+Recipe | 8.5 | null
+Recipe | 100.0 | null
+Recipe | 150.0 | null
+Recipe | 49.0 | null
+Recipe | 250.0 | null
+Recipe | 20.0 | null
+Recipe | 430.0 | null
+Recipe | 1111.0 | null
+Recipe | 100.0 | null
+Recipe | 10.8 | null
+Recipe | 325.0 | null
+Recipe | 3000.0 | 2.0
+Recipe | 43.99 | null
+Recipe | 100.0 | null
+Recipe | 30.0 | null
+Recipe | 100.0 | null
+Recipe | 14.0 | null
+Recipe | 14.0 | null
+Recipe | 444.0 | null
+Recipe | 40.0 | null
+Recipe | 750.0 | null
+Recipe | 94.0 | null
+Recipe | 120.0 | null
+Recipe | 100.0 | null
+Recipe | 58.0 | null
+Recipe | 230.0 | null
+Recipe | 14.9 | null
+Recipe | 15.0 | null
+Recipe | 150.0 | null
+Recipe | 10.0 | null
+Recipe | 448.99 | null
+Recipe | 104.0 | null
+Recipe | 15.0 | null
+Recipe | 149.98 | null
+Recipe | 7.49 | null
+Recipe | 100.0 | null
+Recipe | 65.0 | null
+Recipe | 78.0 | null
+Recipe | 25.0 | null
+Recipe | 99.0 | null
+Recipe | 29.0 | null
+Recipe | 13.0 | null
+Recipe | 2798.0 | null
+Recipe | 149.0 | null
+Recipe | 9.98 | null
+Recipe | 8.0 | null
+Recipe | 2500.0 | null
+Recipe | 9.0 | null
+Recipe | 99.0 | null
+Recipe | 245.98 | null
+Recipe | 15.0 | null
+Recipe | 15.0 | null
+Recipe | 100.0 | null
+Recipe | 150.0 | null
+Recipe | 45.0 | null
+Recipe | 10.0 | null
+Recipe | 499.0 | null
+Recipe | 280.0 | null
+Recipe | 7.0 | null
+Recipe | 100.0 | null
+Recipe | 98.0 | null
+Recipe | 2840.0 | null
+Recipe | 14.9 | null
+Recipe | 100.0 | null
+Recipe | 200.0 | null
+Recipe | 84.0 | null
+Recipe | 10.0 | null
+Recipe | 192.0 | null
+Recipe | 113.0 | null
+Rectangle Cherry Rug | 69.0 | null
+Red Clay Amphora | 500.0 | null
+Red Clay Pot | 250.0 | 1.0
+Red-lacquered Songbird Cage | 8500.0 | 3.0
+Red Meat | 0.1 | 2467.0
+Red Pigment | 28.18 | 8.0
+Reeds | 0.08 | null
+Reflector Lamp | 150.0 | null
+Regal Boots | 0.69 | null
+Regal Dress | 0.18 | null
+Regal Gloves | 0.69 | null
+Regal Hat | 0.69 | null
+Regal Pants | 0.61 | null
+Regeneration Serum | 24.18 | 100.0
+Reinforced Bracing | 4600.0 | 1.0
+Reinforced Orichalcum Blunderbuss Charm | 5.54 | null
+Reinforced Orichalcum Bow Charm | 443.0 | 4.0
+Reinforced Orichalcum Fire Staff Charm | 190.0 | 22.0
+Reinforced Orichalcum Flail Charm | 29999.0 | 1.0
+Reinforced Orichalcum Great Axe Charm | 4800.0 | 5.0
+Reinforced Orichalcum Greatsword Charm | 2.39 | null
+Reinforced Orichalcum Hatchet Charm | 4.0 | null
+Reinforced Orichalcum Ice Gauntlet Charm | 7.0 | null
+Reinforced Orichalcum Life Staff Charm | 110.0 | 164.0
+Reinforced Orichalcum Musket Charm | 5.9 | null
+Reinforced Orichalcum Rapier Charm | 30.33 | null
+Reinforced Orichalcum Spear Charm | 28.73 | null
+Reinforced Orichalcum Void Gauntlet Charm | 12.0 | null
+Reinforced Orichalcum War Hammer Charm | 13.0 | null
+Reinforced Starmetal Blunderbuss Charm | 2.0 | null
+Reinforced Starmetal Bow Charm | 2.17 | null
+Reinforced Starmetal Fire Staff Charm | 19.88 | null
+Reinforced Starmetal Flail Charm | 139.0 | 2.0
+Reinforced Starmetal Great Axe Charm | 44.0 | 850.0
+Reinforced Starmetal Greatsword Charm | 58.9 | null
+Reinforced Starmetal Hatchet Charm | 74.0 | null
+Reinforced Starmetal Ice Gauntlet Charm | 10.7 | null
+Reinforced Starmetal Life Staff Charm | 8.95 | 14.0
+Reinforced Starmetal Musket Charm | 6.0 | null
+Reinforced Starmetal Rapier Charm | 29.0 | null
+Reinforced Starmetal Spear Charm | 125.0 | null
+Reinforced Starmetal Void Gauntlet Charm | 21.9 | null
+Reinforced Starmetal War Hammer Charm | 40.0 | null
+Reinforced Steel Blunderbuss Charm | 169.0 | null
+Reinforced Steel Bow Charm | 14.9 | null
+Reinforced Steel Fire Staff Charm | 22.0 | null
+Reinforced Steel Flail Charm | 33.32 | 44.0
+Reinforced Steel Great Axe Charm | 1.99 | null
+Reinforced Steel Greatsword Charm | 5.0 | null
+Reinforced Steel Hatchet Charm | 3.44 | null
+Reinforced Steel Ice Gauntlet Charm | 14.9 | null
+Reinforced Steel Life Staff Charm | 11.88 | null
+Reinforced Steel Musket Charm | 1.99 | null
+Reinforced Steel Rapier Charm | 2.33 | null
+Reinforced Steel Spear Charm | 719.0 | 1.0
+Reinforced Steel Void Gauntlet Charm | 27.0 | 135.0
+Reinforced Steel War Hammer Charm | 24.5 | null
+Resin Chunk | 0.03 | null
+Resin Lump | 1.4 | null
+Resin Shavings | 0.02 | null
+Resonant Hide | 5.59 | 500.0
+Rice | 0.49 | 9976.0
+Rich Bear Flank | 7.0 | 27.0
+Rich Vanilla Dye | 269.0 | null
+Rickety Twig Table | 200.0 | null
+Rickety Wooden Chair | 250.0 | null
+Rickety Wooden Stool | 60.0 | null
+Rickety Wooden Wall Shelf | 20.0 | null
+Rivercress Flower | 5.98 | 210.0
+Rivercress Leaf | 29.97 | 333.0
+Rivercress Stem | 1.11 | 400.0
+River Glyph Stone | 229.99 | 24.0
+Riveted Orichalcum Mail | 6.38 | null
+Riveted Starmetal Mail | 25.0 | null
+Riveted Steel Mail | 333.0 | null
+Roasted Cabbage | 15.0 | null
+Roasted Carrots | 7.0 | null
+Roasted Carrots with Dill | 1.0 | null
+Roasted Game Bird with Berry Glaze | 11.79 | null
+Roasted Gnufish | 69.98 | null
+Roasted Monstrous Turkey Dinner | 200.0 | 33.0
+Roasted Potatoes | 1.9 | null
+Roasted Prismatic Filet | 299.0 | 14.0
+Roasted Rabbit with Seasoned Vegetables | 25.0 | 97.0
+Roasted Turkey Thigh | 18.89 | null
+Roasted Vegetable Medley | 100.0 | null
+Roasted Wolf Loin | 100.0 | null
+Roast Pork Shank | 7.0 | null
+Robust Wind Chimes | 49.91 | null
+Rojo-Levantina Marble Bedside Table | 2100.0 | null
+Rojo-Levantina Marble Dining Table | 2400.0 | null
+Rojo-Levantina Marble Top Dresser | 650.0 | null
+Rosemary | 1.4 | 2809.0
+Rose Stone Dye | 36.0 | null
+Rosewood Apothecary Cabinet | 2999.0 | null
+Rosewood Carved Canopy Bed | 2999.0 | null
+Rosewood Circular Curio Shelf | 500.0 | null
+Rosewood Dining Table | 1500.0 | null
+Rosewood Dresser | 4999.0 | null
+Rosewood End Table | 200.0 | null
+Rosewood Painted Bamboo Blinds | 7100.0 | null
+Rosewood Pedestal Shelf | 100.0 | null
+Rosewood Weapon Rack | 950.0 | null
+Rosewood Writing Desk | 500.0 | null
+Rough Almond Dye | 79.0 | null
+Rough Leather Beaded Straps | 0.79 | 507.0
+Rough Leather Corrupted Fetish | 0.04 | null
+Rough Leather Scourge | 3.9 | null
+Round Birdcage | 98.0 | null
+Round Earthenware Jar | 4.0 | null
+Round Sea Foam Rug | 50.0 | null
+Round Standing Lantern | 10100.0 | null
+Round Sunny Rug | 4.8 | null
+Ruby | 1.67 | 1202.0
+Ruby Brocade Drapes | 599.0 | null
+Ruby Brocade Valance | 600.0 | null
+Ruby Geometric Rug | 3000.0 | null
+Ruby Place Setting | 1000.0 | null
+Ruby Silk Daybed | 500.0 | null
+Ruby Tonic | 14.0 | 17.0
+Ruby Woven Floor Mat | 90.0 | null
+Rugged Leather | 1.8 | 619.0
+Runeglass Case of Electrifying | 1997.98 | 2.0
+Runeglass Case of Empowering | 1200.0 | 3.0
+Runeglass Case of Energizing | 4998.99 | 2.0
+Runeglass Case of Freezing | 3899.0 | 2.0
+Runeglass Case of Igniting | 1998.0 | 3.0
+Runeglass Case of Leeching | 3600.0 | 3.0
+Runeglass Case of Nature | 4888.0 | 2.0
+Runeglass Case of Punishing | 1399.0 | 5.0
+Runeglass Case of Sight | 1598.0 | 2.0
+Runeglass Case of Siphoning | 4977.96 | 2.0
+Runeglass Case of the Abyss | 2100.0 | 2.0
+Runeglass of Abyssal Amber | 4500.12 | null
+Runeglass of Abyssal Amethyst | 3100.11 | null
+Runeglass of Abyssal Aquamarine | 7999.0 | null
+Runeglass of Abyssal Carnelian | 2000.0 | null
+Runeglass of Abyssal Diamond | 4299.87 | null
+Runeglass of Abyssal Emerald | 4799.88 | null
+Runeglass of Abyssal Jasper | 8100.0 | null
+Runeglass of Abyssal Malachite | 4399.87 | 5.0
+Runeglass of Abyssal Moonstone | 3958.99 | null
+Runeglass of Abyssal Onyx | 2090.12 | null
+Runeglass of Abyssal Opal | 2189.88 | null
+Runeglass of Abyssal Ruby | 4881.98 | null
+Runeglass of Abyssal Sapphire | 4887.0 | null
+Runeglass of Abyssal Topaz | 4787.0 | null
+Runeglass of Arboreal Amber | 6481.87 | 1.0
+Runeglass of Arboreal Amethyst | 3500.0 | null
+Runeglass of Arboreal Aquamarine | 11100.0 | null
+Runeglass of Arboreal Carnelian | 6999.0 | null
+Runeglass of Arboreal Diamond | 4899.88 | null
+Runeglass of Arboreal Emerald | 7999.88 | 4.0
+Runeglass of Arboreal Jasper | 6974.0 | null
+Runeglass of Arboreal Malachite | 5985.32 | null
+Runeglass of Arboreal Moonstone | 5998.99 | null
+Runeglass of Arboreal Onyx | 7099.88 | null
+Runeglass of Arboreal Opal | 5899.87 | 1.0
+Runeglass of Arboreal Ruby | 4900.12 | null
+Runeglass of Arboreal Sapphire | 11100.0 | null
+Runeglass of Arboreal Topaz | 8199.0 | null
+Runeglass of Electrified Amber | 3099.0 | null
+Runeglass of Electrified Amethyst | 8100.0 | null
+Runeglass of Electrified Aquamarine | 3498.0 | null
+Runeglass of Electrified Carnelian | 2999.0 | null
+Runeglass of Electrified Diamond | 3489.88 | null
+Runeglass of Electrified Emerald | 2998.82 | null
+Runeglass of Electrified Jasper | 8100.0 | null
+Runeglass of Electrified Malachite | 2776.99 | 2.0
+Runeglass of Electrified Moonstone | 2927.92 | null
+Runeglass of Electrified Onyx | 3490.12 | 2.0
+Runeglass of Electrified Opal | 2979.87 | null
+Runeglass of Electrified Ruby | 8100.0 | null
+Runeglass of Electrified Sapphire | 3332.0 | null
+Runeglass of Electrified Topaz | 2550.12 | 1.0
+Runeglass of Empowered Amber | 6499.0 | null
+Runeglass of Empowered Amethyst | 8000.0 | null
+Runeglass of Empowered Aquamarine | 3500.0 | null
+Runeglass of Empowered Carnelian | 300.0 | null
+Runeglass of Empowered Diamond | 4899.88 | null
+Runeglass of Empowered Emerald | 9800.0 | null
+Runeglass of Empowered Jasper | 7000.0 | null
+Runeglass of Empowered Malachite | 9749.94 | null
+Runeglass of Empowered Moonstone | 5999.99 | null
+Runeglass of Empowered Onyx | 1700.0 | null
+Runeglass of Empowered Opal | 2999.97 | 1.0
+Runeglass of Empowered Ruby | 7666.0 | 1.0
+Runeglass of Empowered Sapphire | 2490.1 | null
+Runeglass of Empowered Topaz | 9000.0 | null
+Runeglass of Energizing Amethyst | 2990.0 | null
+Runeglass of Energizing Aquamarine | 1900.0 | null
+Runeglass of Energizing Carnelian | 12000.0 | null
+Runeglass of Energizing Diamond | 7000.12 | 1.0
+Runeglass of Energizing Emerald | 7000.12 | null
+Runeglass of Energizing Jasper | 3999.0 | null
+Runeglass of Energizing Malachite | 2990.0 | null
+Runeglass of Energizing Onyx | 8000.12 | null
+Runeglass of Energizing Opal | 8000.12 | null
+Runeglass of Energizing Ruby | 6000.0 | null
+Runeglass of Frozen Amber | 11100.0 | null
+Runeglass of Frozen Amethyst | 6666.0 | null
+Runeglass of Frozen Aquamarine | 4899.87 | null
+Runeglass of Frozen Diamond | 4000.0 | null
+Runeglass of Frozen Emerald | 11100.0 | null
+Runeglass of Frozen Jasper | 11100.0 | null
+Runeglass of Frozen Malachite | 6000.0 | null
+Runeglass of Frozen Moonstone | 5987.97 | null
+Runeglass of Frozen Onyx | 8000.12 | null
+Runeglass of Frozen Opal | 4289.87 | null
+Runeglass of Frozen Ruby | 11100.0 | null
+Runeglass of Frozen Sapphire | 9499.0 | null
+Runeglass of Frozen Topaz | 15499.0 | null
+Runeglass of Ignited Amber | 7500.0 | null
+Runeglass of Ignited Amethyst | 4797.0 | null
+Runeglass of Ignited Aquamarine | 8100.0 | null
+Runeglass of Ignited Carnelian | 1299.0 | null
+Runeglass of Ignited Diamond | 2900.11 | null
+Runeglass of Ignited Emerald | 2980.11 | null
+Runeglass of Ignited Jasper | 8095.0 | null
+Runeglass of Ignited Malachite | 2990.11 | null
+Runeglass of Ignited Moonstone | 590.0 | 4.0
+Runeglass of Ignited Onyx | 2980.1 | null
+Runeglass of Ignited Opal | 3799.87 | 8.0
+Runeglass of Ignited Ruby | 3399.87 | null
+Runeglass of Ignited Sapphire | 4800.12 | null
+Runeglass of Ignited Topaz | 3333.0 | null
+Runeglass of Leeching Amber | 7070.0 | null
+Runeglass of Leeching Amethyst | 11100.0 | null
+Runeglass of Leeching Aquamarine | 11100.0 | null
+Runeglass of Leeching Carnelian | 1499.0 | 5.0
+Runeglass of Leeching Diamond | 6399.88 | null
+Runeglass of Leeching Emerald | 5200.12 | null
+Runeglass of Leeching Jasper | 11100.0 | null
+Runeglass of Leeching Malachite | 6497.0 | null
+Runeglass of Leeching Moonstone | 11100.0 | null
+Runeglass of Leeching Onyx | 4888.24 | null
+Runeglass of Leeching Opal | 5300.11 | null
+Runeglass of Leeching Ruby | 4900.12 | null
+Runeglass of Leeching Sapphire | 11100.0 | 5.0
+Runeglass of Leeching Topaz | 15499.0 | null
+Runeglass of Punishing Amber | 2599.0 | null
+Runeglass of Punishing Amethyst | 2650.12 | null
+Runeglass of Punishing Aquamarine | 9800.0 | null
+Runeglass of Punishing Carnelian | 3300.0 | null
+Runeglass of Punishing Diamond | 2969.87 | null
+Runeglass of Punishing Emerald | 3799.88 | 2.0
+Runeglass of Punishing Jasper | 1995.12 | null
+Runeglass of Punishing Malachite | 2970.11 | null
+Runeglass of Punishing Moonstone | 4800.11 | null
+Runeglass of Punishing Onyx | 3349.87 | null
+Runeglass of Punishing Opal | 2439.88 | null
+Runeglass of Punishing Ruby | 3378.87 | null
+Runeglass of Punishing Sapphire | 2760.12 | null
+Runeglass of Punishing Topaz | 3900.12 | null
+Runeglass of Sighted Amber | 3000.12 | null
+Runeglass of Sighted Amethyst | 4800.12 | null
+Runeglass of Sighted Aquamarine | 2498.0 | null
+Runeglass of Sighted Carnelian | 3999.0 | null
+Runeglass of Sighted Diamond | 3999.23 | null
+Runeglass of Sighted Emerald | 1991.24 | null
+Runeglass of Sighted Jasper | 2079.0 | null
+Runeglass of Sighted Malachite | 3800.11 | null
+Runeglass of Sighted Moonstone | 3966.99 | null
+Runeglass of Sighted Onyx | 2968.87 | null
+Runeglass of Sighted Opal | 2490.12 | null
+Runeglass of Sighted Ruby | 1994.44 | null
+Runeglass of Sighted Sapphire | 4100.0 | null
+Runeglass of Sighted Topaz | 3457.98 | null
+Runeglass of Siphoning Amethyst | 3500.0 | null
+Runeglass of Siphoning Aquamarine | 1400.0 | null
+Runeglass of Siphoning Diamond | 12000.0 | null
+Runeglass of Siphoning Emerald | 1999.0 | null
+Runeglass of Siphoning Malachite | 5000.0 | null
+Runeglass of Siphoning Onyx | 3500.0 | null
+Runeglass of Siphoning Opal | 2100.0 | null
+Runeglass of Siphoning Topaz | 25000.0 | null
+Runestone | 21.96 | 1.0
+Runewood | 0.86 | 1431.0
+Runewood Planks | 20.6 | 45.0
+Runic Leather | 27.49 | 6.0
+Runic Thread | 12.99 | 36.0
+Runic Voidstone | 229.89 | 80.0
+Rushing Blunderbuss Pattern | 78.0 | null
+Rushing Bow Pattern | 90.0 | null
+Rushing Cloth Boots Pattern | 19.97 | null
+Rushing Cloth Coat Pattern | 10.9 | null
+Rushing Cloth Gloves Pattern | 13.99 | null
+Rushing Cloth Hat Pattern | 16.33 | null
+Rushing Cloth Pants Pattern | 10.3 | null
+Rushing Fire Staff Pattern | 12.0 | null
+Rushing Great Axe Pattern | 29.98 | null
+Rushing Greatsword Pattern | 19.0 | null
+Rushing Hatchet Pattern | 10.8 | null
+Rushing Ice Gauntlet Pattern | 5.98 | null
+Rushing Kite Shield Pattern | 9.99 | null
+Rushing Leather Boots Pattern | 5.59 | null
+Rushing Leather Coat Pattern | 400.0 | null
+Rushing Leather Gloves Pattern | 100.0 | null
+Rushing Leather Hat Pattern | 16.49 | null
+Rushing Leather Pants Pattern | 19.0 | null
+Rushing Life Staff Pattern | 10.99 | null
+Rushing Longsword Pattern | 17.54 | null
+Rushing Musket Pattern | 94.98 | null
+Rushing Plate Boots Pattern | 900.0 | null
+Rushing Plate Breastplate Pattern | 100.0 | null
+Rushing Plate Gauntlets Pattern | 100.0 | null
+Rushing Plate Helm Pattern | 20.0 | null
+Rushing Plate Legguards Pattern | 100.0 | null
+Rushing Rapier Pattern | 20.0 | null
+Rushing Round Shield Pattern | 25.0 | null
+Rushing Spear Pattern | 7.9 | null
+Rushing Tower Shield Pattern | 9.5 | null
+Rushing Void Gauntlet Pattern | 5.95 | null
+Rushing War Hammer Pattern | 94.0 | null
+Russet Brown Dye | 50.0 | null
+Rustic Stone Stove | 730.0 | 1.0
+Rustic Wooden Scrollcase | 2500.0 | null
+Rusty Cream Dye | 3.0 | null
+Rusty Hanging Lantern | 30.0 | null
+Rusty Iron Candelabra | 1978.0 | null
+Rusty Iron Lantern | 11.0 | null
+Saddle Brown Dye | 13.41 | null
+Saffron | 0.68 | 205.0
+Sage | 9.88 | 317.0
+Sailor\'s Hammock | 2000.0 | null
+Salamander Slime | 30.99 | 94.0
+Salt | 0.58 | 3636.0
+Salted Ham with Apple Butter | 29.0 | null
+Salted Poultry with Cabbage | 10.31 | 51.0
+Salted Roasted Vegetables | 13.99 | 27.0
+Saltpeter | 0.49 | 9440.0
+Salt-stripped Dining Table | 300.0 | null
+Salt-stripped Galley Shelf | 149.99 | null
+Salt-stripped Half-Barrel Table | 290.97 | null
+Salt-stripped Helm Chandelier | 88.88 | null
+Salt-stripped Low Bookcase | 400.0 | null
+Salt-stripped Scrolled Armoire | 799.66 | null
+Salt-stripped Scrolled Desk | 199.0 | null
+Salt-stripped Short Dresser | 250.0 | null
+Salt-stripped Small Table | 339.9 | null
+Salt-stripped Tall Bookcase | 247.0 | null
+Salt-stripped Tall Dresser | 340.97 | null
+Salt-stripped Vanity Table | 190.0 | null
+Sandstone Block | 9.02 | 6.0
+Sap of Brightwood | 357.0 | 1.0
+Sap of Brightwood | 700.0 | 1.0
+Sap of Brightwood | 410.0 | 1.0
+Sap of Brightwood | 7.5 | null
+Sapphire | 1.68 | 242.0
+Sateen | 1.12 | 8969.0
+Satisfying Meal | 0.01 | null
+Sausage | 0.4 | 9622.0
+Sausage with Creamed Corn | 0.18 | null
+Savory Fish Cake | 18.97 | null
+Savory Vegetable Medley | 7.94 | null
+Scalecloth | 7.2 | 4000.0
+Scalecord | 2.5 | 1379.0
+Scaledust Delight | 36.0 | null
+Scaling Powder | 0.75 | null
+Scaly Hide | 4.75 | 956.0
+Scarhide | 12.5 | 77.0
+Schematic | 2000.0 | null
+Schematic | 844.0 | null
+Schematic | 99.0 | null
+Schematic | 320.0 | null
+Schematic | 444.0 | null
+Schematic | 150.0 | null
+Schematic | 68.99 | null
+Schematic | 165.95 | null
+Schematic | 122.0 | null
+Schematic | 100.0 | null
+Schematic | 198.0 | null
+Schematic | 120.0 | null
+Schematic | 280.0 | null
+Schematic | 35.0 | null
+Schematic | 150.0 | null
+Schematic | 150.0 | null
+Schematic | 199.98 | null
+Schematic | 3444.0 | null
+Schematic | 1998.0 | null
+Schematic | 4500.0 | null
+Schematic | 2000.0 | null
+Schematic | 45.0 | null
+Schematic | 40.0 | null
+Schematic | 49.0 | null
+Schematic | 139.0 | null
+Schematic | 139.0 | null
+Schematic | 400.0 | null
+Schematic | 200.0 | null
+Schematic | 5000.0 | null
+Schematic | 880.0 | null
+Schematic | 99.0 | null
+Schematic | 174.0 | null
+Schematic | 0.55 | null
+Schematic | 130.0 | null
+Schematic | 2333.0 | null
+Schematic | 999.0 | null
+Schematic | 12.0 | null
+Schematic | 9000.0 | null
+Schematic | 200.0 | null
+Schematic | 50.0 | null
+Schematic | 350.0 | null
+Schematic | 900.0 | null
+Schematic | 699.0 | null
+Schematic | 250.0 | null
+Schematic | 300.0 | null
+Schematic | 1500.0 | null
+Schematic | 7000.0 | null
+Schematic | 300.0 | null
+Schematic | 200.0 | null
+Schematic | 999.0 | null
+Schematic | 8000.0 | null
+Schematic | 2200.0 | null
+Schematic | 5055.0 | null
+Schematic | 3888.0 | null
+Schematic | 2500.0 | null
+Schematic | 3.98 | null
+Schematic | 380.0 | null
+Schematic | 500.0 | null
+Schematic | 149.0 | null
+Schematic | 90.0 | null
+Schematic | 100.0 | null
+Schematic | 2222.0 | null
+Schematic | 10.95 | null
+Schematic | 2298.0 | null
+Schematic | 60.0 | null
+Schematic | 40.0 | null
+Schematic | 570.0 | null
+Schematic | 89.0 | null
+Schematic | 145000.0 | null
+Schematic | 299.0 | null
+Schematic | 2000.0 | null
+Schematic | 2775.0 | null
+Schematic | 160.0 | null
+Schematic | 750.0 | null
+Schematic | 1500.0 | null
+Schematic | 2900.0 | null
+Schematic | 5000.0 | null
+Schematic | 77.0 | null
+Schematic | 5.0 | null
+Schematic | 2000.0 | null
+Schematic | 459.0 | null
+Schematic | 44.0 | null
+Schematic | 74.0 | null
+Schematic | 52.14 | null
+Schematic | 98.0 | null
+Schematic | 320.0 | null
+Schematic | 75.0 | null
+Schematic | 89.0 | null
+Schematic | 50.0 | null
+Schematic | 118.0 | null
+Schematic | 10.0 | null
+Schematic | 599.0 | null
+Schematic | 89.99 | null
+Schematic | 100.0 | null
+Schematic | 9.0 | null
+Schematic | 189.0 | 1.0
+Schematic | 10.0 | null
+Schematic | 89.0 | null
+Schematic | 100.0 | null
+Schematic | 1500.0 | null
+Schematic | 8000.0 | null
+Schematic | 16100.0 | null
+Schematic | 2999.0 | null
+Schematic | 3333.0 | 1.0
+Schematic | 4987.0 | 4.0
+Schematic | 4333.0 | null
+Schematic | 1500.0 | null
+Schematic | 7499.0 | null
+Schematic | 3554.0 | null
+Schematic | 34.13 | null
+Schematic | 3.63 | null
+Schematic | 1625.0 | 4.0
+Schematic | 325.0 | null
+Schematic | 178.0 | null
+Schematic | 120.0 | null
+Schematic | 110.0 | null
+Schematic | 40.0 | null
+Schematic | 1.14 | null
+Schematic | 300.0 | null
+Schematic | 205.0 | null
+Schematic | 177.7 | null
+Schematic | 320.0 | null
+Schematic | 100.0 | null
+Schematic | 29.91 | null
+Schematic | 199.0 | null
+Schematic | 247.0 | null
+Schematic | 100.0 | null
+Schematic | 200.0 | null
+Schematic | 99.0 | null
+Schematic | 1150.0 | null
+Schematic | 199.0 | null
+Schematic | 166.0 | null
+Schematic | 499.0 | null
+Schematic | 180.0 | null
+Schematic | 100.0 | null
+Schematic | 0.89 | null
+Schematic | 0.6 | null
+Schematic | 0.5 | null
+Schematic | 0.6 | null
+Schematic | 0.87 | null
+Schematic | 10.5 | null
+Schematic | 0.5 | null
+Schematic | 1.3 | null
+Schematic | 0.4 | null
+Schematic | 1.17 | null
+Schematic | 14.0 | null
+Schematic | 0.66 | null
+Schematic | 0.9 | null
+Schematic | 0.5 | null
+Schematic | 1.79 | null
+Schematic | 44.0 | null
+Schematic | 73.0 | null
+Schematic | 100.0 | null
+Schematic | 95.0 | null
+Schematic | 100.0 | null
+Schematic | 120.0 | null
+Schematic | 52.13 | null
+Schematic | 888.0 | null
+Schematic | 70.0 | null
+Schematic | 6990.0 | null
+Schematic | 2000.0 | null
+Schematic | 110.0 | null
+Schematic | 5.54 | null
+Schematic | 250.0 | null
+Schematic | 85.14 | null
+Schematic | 1500.0 | null
+Schematic | 120.0 | null
+Schematic | 39.99 | null
+Schematic | 39.0 | null
+Schematic | 99.0 | null
+Schematic | 111.0 | null
+Schematic | 90.0 | null
+Schematic | 49.0 | null
+Schematic | 149.0 | null
+Schematic | 1000.0 | null
+Schematic | 39.4 | null
+Schematic | 19.0 | null
+Schematic | 248.95 | null
+Schematic | 8.99 | null
+Schematic | 1999.0 | null
+Schematic | 1.95 | null
+Schematic | 0.9 | null
+Schematic | 174.0 | null
+Schematic | 80.0 | null
+Schematic | 0.5 | null
+Schematic | 87.0 | null
+Schematic | 125.0 | null
+Schematic | 1500.0 | null
+Schematic | 130.0 | null
+Schematic | 299.0 | null
+Schematic | 270.0 | null
+Schematic | 750.0 | null
+Schematic | 149.0 | null
+Schematic | 200.0 | null
+Schematic | 330.0 | null
+Schematic | 100.0 | null
+Schematic | 80.0 | null
+Schematic | 87.0 | null
+Schematic | 199.0 | null
+Schematic | 7777.0 | 1.0
+Schematic | 1250.0 | null
+Schematic | 90.0 | null
+Schematic | 1000.0 | null
+Schematic | 90.0 | null
+Schematic | 999.0 | 2.0
+Schematic | 15.0 | null
+Schematic | 100.0 | null
+Schematic | 170.0 | null
+Schematic | 2000.0 | null
+Schematic | 0.49 | null
+Schematic | 1990.0 | null
+Schematic | 850.0 | null
+Schematic | 350.0 | null
+Schematic | 3887.0 | null
+Schematic | 1000.0 | null
+Schematic | 9999.99 | null
+Schematic | 1000.0 | null
+Schematic | 650.0 | null
+Schematic | 3000.0 | null
+Schematic | 3888.0 | null
+Schematic | 888.0 | null
+Schematic | 3500.0 | null
+Schematic | 1750.0 | 1.0
+Schematic | 4999.0 | 1.0
+Schematic | 3000.0 | null
+Schematic | 24999.0 | null
+Schematic | 6500.0 | null
+Schematic | 18765.0 | null
+Schematic | 470.0 | null
+Schematic | 150.0 | null
+Schematic | 100.0 | null
+Schematic | 159.0 | null
+Schematic | 98.0 | null
+Schematic | 99.0 | null
+Schematic | 49.0 | null
+Schematic | 99.94 | null
+Schematic | 300.0 | null
+Schematic | 298.9 | null
+Schematic | 274.0 | null
+Schematic | 220.0 | null
+Schematic | 170.0 | null
+Schematic | 220.0 | null
+Schematic | 450.0 | null
+Schematic | 444.0 | null
+Schematic | 64.0 | null
+Schematic | 50.0 | null
+Schematic | 50.0 | null
+Schematic | 98.0 | null
+Schematic | 465.0 | null
+Schematic | 150.0 | null
+Schematic | 140.0 | null
+Schematic | 80.0 | null
+Schematic | 100.0 | null
+Schematic | 1900.0 | null
+Schematic | 3000.0 | null
+Schematic | 87.0 | null
+Schematic | 99.0 | null
+Schematic | 87.0 | null
+Schematic | 0.59 | null
+Schematic | 10.0 | null
+Schematic | 140.0 | null
+Schematic | 99.0 | null
+Schematic | 230.9 | null
+Schematic | 200.0 | null
+Schematic | 22.0 | null
+Schematic | 60.0 | null
+Schematic | 250.0 | null
+Schematic | 45.0 | null
+Schematic | 90.0 | null
+Schematic | 100.0 | null
+Schematic | 120.0 | null
+Schematic | 1000.0 | null
+Schematic | 199.0 | null
+Schematic | 1.35 | null
+Schematic | 0.89 | null
+Schematic | 1000.0 | null
+Schematic | 1200.0 | null
+Schematic | 1000.0 | null
+Schematic | 120.0 | null
+Schematic | 108.0 | null
+Schematic | 440.0 | null
+Schematic | 292.98 | null
+Schematic | 2000.0 | null
+Schematic | 1988.0 | null
+Schematic | 22.98 | null
+Schematic | 65.0 | null
+Schematic | 300.0 | null
+Schematic | 100.0 | null
+Schematic | 198.93 | null
+Schematic | 250.0 | null
+Schematic | 294.0 | null
+Schematic | 748.0 | null
+Schematic | 170.0 | null
+Schematic | 155.0 | null
+Schematic | 148.0 | null
+Schematic | 190.0 | null
+Schematic | 450.0 | null
+Schematic | 599.0 | null
+Schematic | 50.0 | null
+Schematic | 999.0 | null
+Schematic | 1500.0 | null
+Schematic | 14000.0 | null
+Schematic | 5000.0 | null
+Schematic | 12.0 | null
+Schematic | 2000.0 | null
+Scholarly Scroll | 4.49 | null
+Sculpin Scales | 2.95 | 1635.0
+Sea Clam Dye | 249.0 | null
+Sea Foam Place Setting | 39.99 | null
+Sea Foam Posh Curtains | 733.0 | null
+Sea Foam Posh Valance | 100.0 | null
+Sea Foam Ragged Curtains | 30.0 | null
+Sea Foam Velvet Armchair | 549.99 | null
+Sea Foam Velvet Captain\'s Bed | 940.0 | null
+Sea Foam Velvet Dining Chair | 490.0 | null
+Sea Foam Velvet Footstool | 190.99 | null
+Seafood Bisque | 27.1 | 50.0
+Sealed Glyph Stone | 2.97 | 1339.0
+Sealed Scrolls | 295.0 | null
+Seared Venison Steak | 1.75 | null
+Seasoned Leather Dye | 22.95 | null
+Seasoning Blend | 1.5 | 984.0
+Seaweed | 4.4 | 317.0
+Sentimental Note | 5.0 | null
+Sentimental Silk Fans | 1987.0 | 2.0
+Serpentine Handguard | 2.97 | null
+Serpentine Marble Bedside Table | 198.0 | null
+Serpentine Marble Dining Table | 499.0 | null
+Serpentine Marble Top Dresser | 99.0 | null
+Sewing Accessories | 75.0 | null
+Shadecloth | 0.65 | 3700.0
+Shadowfur | 1.94 | 664.0
+Shadow Glyph Stone | 43.44 | 44.0
+Shadow Moss Dye | 2.0 | null
+Shard of Adamant | 5.99 | 34.0
+Shard of Adderstone | 8.91 | null
+Shard of Baetylus | 6.5 | null
+Shard of Batrachite | 61.9 | null
+Shard of Brass Mail | 4000.0 | 1.0
+Shard of Cobalt | 0.05 | null
+Shard of Consecrated Iron | 398.0 | 4.0
+Shard of Corrupted Matter | 4.0 | null
+Shard of Crystal | 0.16 | null
+Shard of Crystalized Azoth | 450.0 | 15.0
+Shard of Crystalized Ectoplasm | 0.16 | null
+Shard of Enchanted Earth | 21.0 | 625.0
+Shard of Ironwood Resin | 0.25 | null
+Shard of Niter | 2.85 | null
+Shard of Pride | 3959.0 | 1.0
+Shard of Sparkmetal | 4.68 | null
+Shard of Thunderstone | 0.74 | null
+Sharp Baetylus | 350.0 | 11.0
+Shattered Sword | 0.7 | null
+Shellbed Cap | 3.1 | 1.0
+Shifthide | 4.9 | 417.0
+Shimmering Animus | 5.85 | null
+Shining Animus | 4.89 | null
+Ship\'s Cookware | 2.0 | null
+Ship Wheel Swords Display | 87.0 | null
+Shockbulb Flower | 1.79 | 98.0
+Shockbulb Leaf | 5.24 | 439.0
+Shockbulb Stem | 0.45 | 899.0
+Shocking Lodestone | 1.23 | 1156.0
+Shooter Sandwich | 2.75 | null
+Short Barrel Countertop | 3.0 | null
+Short Black Porcelain Vase | 14567.0 | 1.0
+Short Cream Porcelain Vase | 16.0 | null
+Short Green Ivy Trellis | 395.0 | null
+Short Green Porcelain Vase | 1100.0 | null
+Short Iron Chain | 50.0 | null
+Short Orange Hibiscus Trellis | 284.9 | null
+Short Pink Mandevilla Trellis | 210.0 | null
+Short Purple Wisteria Trellis | 920.0 | 4.0
+Short Red Cypress Trellis | 185.0 | null
+Short Red Porcelain Vase | 3000.0 | null
+Short White Moonflower Trellis | 2800.0 | null
+Short White Porcelain Vase | 2800.0 | null
+Silk | 8.0 | 1000.0
+Silk Threads | 0.97 | 623.0
+Silver Band | 4.9 | null
+Silver Candelabra | 499.0 | null
+Silver Chain | 34.0 | 811.0
+Silver Hook | 4.1 | null
+Silver Ingot | 1.45 | 2545.0
+Silver Ore | 0.6 | 1854.0
+Silver Setting | 4.99 | null
+Simple Wall-mounted Lantern | 900.0 | 2.0
+Skull Candleholder | 295.0 | null
+Skull With Fancy Hat | 49.0 | null
+Sliver of Adamant | 4.75 | null
+Sliver of Adderstone | 0.22 | 9368.0
+Sliver of Baetylus | 8.3 | null
+Sliver of Batrachite | 0.41 | null
+Sliver of Cobalt | 0.04 | null
+Sliver of Consecrated Iron | 130.0 | 4.0
+Sliver of Crystal | 7.12 | null
+Sliver of Crystalized Azoth | 22.0 | 211.0
+Sliver of Crystalized Ectoplasm | 2.0 | null
+Sliver of Enchanted Earth | 0.07 | null
+Sliver of Ironwood Resin | 47.99 | null
+Sliver of Niter | 0.14 | null
+Sliver of Sparkmetal | 0.13 | null
+Sliver of Thunderstone | 7.59 | 292.0
+Sliver of Wyrdwood Resin | 14.88 | null
+Slow-Roasted Bear Flank with Root Vegetables | 22.72 | 100.0
+Small Animal Bone | 1.0 | null
+Small Bass | 100.0 | null
+Small Beer Set | 200.0 | null
+Small Bluefish | 100.0 | null
+Small Boar Hoof | 0.19 | null
+Small Catfish | 6.99 | null
+Small Cod | 100.0 | null
+Small Dragon Fish | 3.86 | 1184.0
+Small Drum | 300.0 | null
+Small Electric Eel | 75.0 | null
+Small Elk Hoof | 30.0 | 1601.0
+Small Flounder | 87.0 | null
+Small Frogfish | 9.0 | null
+Small Hake | 90.0 | null
+Small Halibut | 24.99 | null
+Small Mackerel | 100.0 | null
+Small Madtom | 5.99 | null
+Small Paddlefish | 12.0 | null
+Small Perch | 69.0 | null
+Small Pike | 5.0 | null
+Small Piranha | 7.0 | null
+Small Quartz Crystal | 7.0 | null
+Small Rustic Cabinet | 240.0 | null
+Small Salmon | 18.0 | null
+Small Sculpin | 100.0 | null
+Small Snapper | 100.0 | null
+Small Speartooth Shark | 19.99 | null
+Small Squid | 48.99 | null
+Small Stingray | 7.0 | null
+Small Sturgeon | 99.0 | null
+Small Sunfish | 99.99 | null
+Small Swordfish | 100.0 | null
+Small Traveler\'s Stone | 0.02 | null
+Small Trout | 16.0 | null
+Small Wolf Paw | 0.22 | null
+Smoked Rib Cap with Cabbage and Barley Soup | 15.0 | 5.0
+Smokey Malachite Dye | 99.0 | null
+Smolderhide | 9.67 | 243.0
+Smoldering Armor Shard | 19.49 | null
+Smoldering Sand | 1.49 | 1000.0
+Smoldering Weapon Shard | 3.49 | 469.0
+Snail Bait | 0.02 | null
+Snail Slime | 6.34 | 1980.0
+Sneaky the Smuggler | 149.0 | null
+Sneaky the Smuggler | 15.0 | null
+Sneaky the Smuggler | 10.0 | null
+Sneaky the Smuggler | 550.0 | null
+Sneaky the Smuggler | 29.0 | null
+Sneaky the Smuggler | 6.69 | null
+Sneaky the Smuggler | 499.0 | null
+Sneaky the Smuggler | 10.0 | null
+Sneaky the Smuggler | 17.9 | null
+Sneaky the Smuggler | 369.98 | null
+Sneaky the Smuggler | 10.0 | null
+Sneaky the Smuggler | 3.91 | null
+Soft Cyan Dye | 49.83 | null
+Softwood Prayer Beads | 0.18 | 3012.0
+Softwood Tree Sap | 3.25 | null
+Soggy Boot | 1.45 | null
+Solid Baetylus | 999.0 | 6.0
+Sophisticated Layered Silk Boots | 0.78 | null
+Sophisticated Layered Silk Gloves | 1.75 | null
+Sophisticated Layered Silk Mask | 0.85 | null
+Sophisticated Layered Silk Pants | 1.75 | null
+Sophisticated Layered Silk Shirt | 49.95 | null
+Soul Essence | 46.0 | 30.0
+Soul Mote | 2.13 | 3567.0
+Soul Quintessence | 99.73 | 9.0
+Soulsprout Flower | 3.55 | 207.0
+Soulsprout Leaf | 3.98 | 307.0
+Soulsprout Stem | 1.75 | 2269.0
+Soulwarden\'s Journey | 10500.0 | null
+Soul Wisp | 11.6 | 136.0
+Soulwyrm Tongue | 3.54 | 8.0
+Sounds of Bells | 12.99 | null
+Sounds of Bells | 0.16 | null
+Sounds of Bells | 0.01 | null
+Soup of the Day | 1.88 | null
+Soup of the Day | 1.37 | null
+Soup of the Day | 0.98 | null
+Soup of the Day | 1.98 | null
+Sovereign Purple Dye | 59.8 | null
+Spaghetti Bolognese | 14.99 | null
+Sparkling Bone Dust | 1.5 | 720.0
+Sparkmetal | 799.0 | 6.0
+Spectral Dust | 3.18 | 793.0
+Spiced Aeternum Sturgeon Kebabs | 5.0 | 48.0
+Spiced Melon Pie | 1.8 | null
+Spiced Nog | 14.99 | 92.0
+Spicy Cabbage Soup | 18.88 | 10.0
+Spicy Pepper Dye | 53.98 | null
+Spicy Steak Pie | 12.14 | 100.0
+Spinecap | 0.99 | 1427.0
+Spinefish Fins | 45.0 | 4.0
+Spinfiber | 0.38 | 10000.0
+Spinweave Cloth | 22.87 | 154.0
+Splintered Bow | 0.92 | null
+Sporebloom Fruit | 12.0 | null
+Spore Jelly | 0.39 | null
+Sprigganbane Boots | 20000.0 | 1.0
+Sprigganbane Breastplate | 5000.0 | null
+Sprigganbane Cloth Boots | 4400.0 | null
+Sprigganbane Cloth Gloves | 888.0 | null
+Sprigganbane Cloth Hat | 500.0 | null
+Sprigganbane Cloth Pants | 9999.0 | null
+Sprigganbane Cloth Shirt | 10000.0 | null
+Sprigganbane Gauntlets | 498.88 | 5.0
+Sprigganbane Greaves | 999.0 | null
+Sprigganbane Helm | 3999.0 | null
+Sprigganbane Leather Boots | 2000.0 | null
+Sprigganbane Leather Coat | 5000.0 | null
+Sprigganbane Leather Gloves | 300.0 | null
+Sprigganbane Leather Hat | 4500.0 | null
+Sprigganbane Leather Pants | 500.0 | null
+Spring Morning | 79.95 | null
+\\"Spring River\\" Painting | 93.88 | null
+Springtide Crumble | 7.0 | 89.0
+Springtide Dram | 12.91 | 20.0
+Springtide Wafer | 10.0 | null
+Squared Circle Twig Wreath | 3.99 | null
+Square Earthenware Jar | 10.5 | null
+Squash | 0.33 | 5446.0
+Squid Ink | 1.49 | 503.0
+Squid Ink Pasta with Clams | 38.76 | null
+Squid Meat | 0.79 | 4583.0
+Squirming Vines | 2469.0 | 4.0
+Stacked Deck | 14500.0 | 3.0
+Stacked Dishes | 4.49 | null
+Standard Repair Kit | 0.03 | null
+Starfish | 0.83 | null
+Starlight Dye | 22.42 | null
+Starmetal Armorer\'s Charm | 83.33 | null
+Starmetal Arrow | 0.29 | 863.0
+Starmetal Blunderbuss Charm | 4.95 | null
+Starmetal Botanist\'s Charm | 2.35 | null
+Starmetal Bow Charm | 3.5 | null
+Starmetal Cartridge | 0.15 | 988.0
+Starmetal Engineer\'s Charm | 7.0 | null
+Starmetal Fire Staff Charm | 14.95 | null
+Starmetal Flail Charm | 4000.0 | 6.0
+Starmetal Great Axe Charm | 1600.76 | null
+Starmetal Greatsword Charm | 59.59 | 117.0
+Starmetal Hatchet Charm | 7.0 | null
+Starmetal Ice Gauntlet Charm | 34.9 | 412.0
+Starmetal Ingot | 4.92 | 214.0
+Starmetal Life Staff Charm | 530.0 | 2.0
+Starmetal Lumberjack\'s Charm | 18.98 | null
+Starmetal Miner\'s Charm | 8.0 | null
+Starmetal Musket Charm | 33.0 | 193.0
+Starmetal Ore | 0.42 | 2374.0
+Starmetal Rapier Charm | 4.0 | null
+Starmetal Settler\'s Stove | 400.0 | null
+Starmetal Shield Charm | 666.0 | null
+Starmetal Skinners Charm | 45.49 | null
+Starmetal Spear Charm | 8.0 | null
+Starmetal Sword Charm | 4.44 | null
+Starmetal Traveler\'s Charm | 2.65 | null
+Starmetal Void Gauntlet Charm | 52.0 | 44.0
+Starmetal War Hammer Charm | 3.5 | null
+Starmetal Weaponsmith\'s Charm | 4300.0 | 5.0
+Statue of a Lost Archer | 2500.0 | 2.0
+Statue of a Lost Axeman | 1997.0 | 2.0
+Statue of an Alpha Wolf | 2500.0 | 2.0
+Statue of an Anubian Brute | 2249.0 | 1.0
+Statue of a Rousing Swordsman | 1999.0 | 1.0
+Steak with Mushroom Gravy | 6.0 | null
+Steamed Abaia Serpe | 99.99 | null
+Steel Arcanist\'s Charm | 19.0 | null
+Steel Armorer\'s Charm | 9.9 | null
+Steel Arrow | 0.08 | 1000.0
+Steel Blunderbuss | 179.0 | null
+Steel Blunderbuss Charm | 71.0 | null
+Steel Botanist\'s Charm | 0.21 | null
+Steel Bow Charm | 3.88 | null
+Steel Cartridge | 0.05 | 1000.0
+Steel Chef\'s Charm | 23.9 | null
+Steel Engineers Charm | 10.0 | null
+Steel Fire Staff Charm | 11.99 | null
+Steel Flail Charm | 122.0 | 98.0
+Steel Great Axe Charm | 9.9 | null
+Steel Greatsword Charm | 3.5 | null
+Steel Hatchet Charm | 59.98 | 49.0
+Steel Ice Gauntlet Charm | 1.97 | null
+Steel Ingot | 1.97 | 115.0
+Steel Jewelcrafter\'s Charm | 10.51 | null
+Steel Life Staff Charm | 5.99 | 18.0
+Steel Lumberjack\'s Charm | 17.0 | null
+Steel Miner\'s Charm | 0.11 | null
+Steel Musket Charm | 5.9 | null
+Steel Rapier Charm | 7.0 | null
+Steel Settler\'s Stove | 210.0 | null
+Steel Shield Charm | 5.0 | null
+Steel Skinners Charm | 3.95 | null
+Steel Spear Charm | 15.91 | null
+Steel Sword Charm | 5.77 | null
+Steel Void Gauntlet | 150.0 | null
+Steel Void Gauntlet Charm | 7.0 | null
+Steel War Hammer Charm | 8.0 | null
+Steel Weaponsmith\'s Charm | 8.0 | null
+Sticky Vines | 2.53 | 1250.0
+Stoke the Forge | 210.5 | null
+Stoke the Forge | 10.9 | null
+Stoke the Forge | 196.0 | null
+Stoke the Forge | 1.99 | null
+Stone | 0.16 | 5010.0
+Stone Block | 0.27 | null
+Stone Brick | 0.4 | 1169.0
+Stone Cairn | 90.0 | null
+Stone Display Platform | 15.0 | null
+Stone Storage Chest | 550.0 | null
+Storage Cage | 14.0 | null
+Storm\'s Past | 1.5 | null
+Storm\'s Past | 0.09 | null
+Storm\'s Past | 980.0 | 4.0
+Strand of Writhing Briar | 0.1 | null
+Strawberry | 10.5 | 64.0
+Straw Pet Bed | 1500.0 | null
+Strength Glyph Stone | 0.07 | null
+String Bean | 0.39 | 9826.0
+Strong Alkahest | 0.2 | 9111.0
+Strong Ancient Coating | 2.23 | null
+Strong Ancient Ward Potion | 20.0 | null
+Strong Angry Earth Coating | 0.25 | null
+Strong Angry Earth Ward Potion | 0.35 | null
+Strong Arcane Absorption Potion | 0.71 | null
+Strong Beast Coating | 0.97 | null
+Strong Beast Ward Potion | 1.99 | null
+Strong Blight Tincture | 1.69 | null
+Strong Corrupted Coating | 3.1 | null
+Strong Corrupted Ward Potion | 3.1 | null
+Strong Corruption Tincture | 5.0 | null
+Strong Encumbrance Potion | 0.19 | null
+Strong Fire Absorption Potion | 10.0 | null
+Strong Focus Potion | 29.0 | 27.0
+Strong Gemstone Dust | 0.18 | 100.0
+Strong Health Potion | 0.02 | null
+Strong Honey Brew | 1.7 | null
+Strong Honing Stone | 59.68 | 7.0
+Strong Human Coating | 85.0 | null
+Strong Human Ward Potion | 19.0 | null
+Strong Incense | 8.7 | null
+Strong Lightning Absorption Potion | 2.5 | null
+Strong Lost Coating | 3.4 | null
+Strong Lost Ward Potion | 6.5 | null
+Strong Mana Potion | 0.06 | null
+Strong Nature Absorption Potion | 3.49 | null
+Strong Oakflesh Balm | 23.8 | 23.0
+Strong Proficiency Booster | 43.99 | 100.0
+Strong Regeneration Potion | 1.05 | 96.0
+Strong Void Absorption Potion | 0.05 | null
+Stuffed Calamari | 17.14 | 100.0
+Stuffed Pork Chop | 5.0 | null
+Stuffed Squash | 12.0 | null
+Stuffed Venison Tenderloin | 21.85 | null
+Sturdy Cooking Set | 5.0 | null
+Sublime Velvet Dye | 8.9 | null
+Sugar | 4.88 | 100.0
+Sulfur | 23.55 | 214.0
+Sulfur Chunk | 8.03 | 13.0
+Summer Raspberry Dye | 100.0 | null
+Summertime Wreath | 23.0 | null
+Sumptuous Rabbit | 17.47 | 177.0
+Suncreeper Tendril | 2.5 | 2077.0
+Sun Glyph Stone | 2.7 | 147.0
+Sunny Curtains | 149.0 | null
+Sunny Drape | 350.0 | null
+Sunny Place Setting | 248.0 | null
+Sunny Sheets Bunk Bed | 100.0 | null
+Sunny Valance | 100.0 | null
+\\"Sunrise Over the Western Mountains\\" Painting | 1000.0 | null
+Sunset Slate Dye | 28.84 | null
+Superos Charm | 11.0 | null
+Supreme Omelet | 8.95 | null
+Surveyor\'s Tools | 3700.0 | 2.0
+Swamp Grass Dye | 97.0 | null
+Sweet Fruit Trifle | 2.5 | null
+Sweet Wild Berry Infusion | 24.49 | null
+Syndicate Barbarian Seal | 90.0 | null
+Syndicate Brigand Seal | 6.9 | null
+Syndicate Cleric Seal | 99.99 | null
+Syndicate Occultist Seal | 90.0 | null
+Tadpole | 59.11 | 200.0
+Tall Black Porcelain Vase | 4500.0 | null
+Tall Cream Porcelain Vase | 19876.0 | 1.0
+Tall Green Ivy Trellis | 80.0 | null
+Tall Green Porcelain Vase | 800.0 | 2.0
+Tall Orange Hibiscus Trellis | 5000.0 | null
+Tallow | 2.21 | 9873.0
+Tall Pink Mandevilla Trellis | 289.99 | null
+Tall Purple Wisteria Trellis | 5000.0 | null
+Tall Red Cypress Trellis | 140.0 | null
+Tall Red Porcelain Vase | 1500.0 | null
+Tall White Moonflower Trellis | 922.0 | null
+Tall White Porcelain Vase | 3200.0 | 3.0
+Tangle of Writhing Briar | 5.89 | 43.0
+Tanglewisp | 0.97 | 2242.0
+Target Dummy | 690.0 | 1.0
+Tarnished Jade Dye | 89.99 | 31.0
+Tarnished Obsidian Dye | 200.0 | 12.0
+Tarnished Silver Teacup | 100.0 | null
+Tarragon | 0.8 | 500.0
+Tarragon Poultry Sliders | 100.0 | null
+Tattered Banner | 440.0 | null
+Tattered Mangy Hide | 1.89 | 9731.0
+Tavern | 14.0 | null
+Tavern | 15.0 | null
+Tavern | 10.0 | null
+Tavern | 139.5 | null
+Tea and Snacks China Set | 10.0 | null
+Tea Ceremony Set | 5000.0 | 3.0
+Teak Apothecary Cabinet | 210.0 | null
+Teak Carved Canopy Bed | 210.0 | null
+Teak Circular Curio Shelf | 200.0 | null
+Teak Dining Table | 210.0 | null
+Teak Dresser | 169.0 | null
+Teak End Table | 75.0 | null
+Teak Painted Bamboo Blinds | 200.0 | null
+Teak Pedestal Shelf | 299.0 | null
+Teak Weapon Rack | 100.0 | null
+Teak Writing Desk | 210.0 | null
+Tempered Cast | 3799.0 | 3.0
+Temple Hanging Lantern | 3100.0 | null
+Temple Standing Lantern | 752.0 | null
+Temple Wall-mounted Lantern | 1876.0 | null
+Tender Fish Filet | 1.96 | 248.0
+Tender Wolf Loin | 2.15 | 1093.0
+Tendrilspine Fibers | 0.75 | 1962.0
+That Damn Fish | 3.89 | null
+That Damn Fish | 2.79 | null
+That Damn Fish | 5.9 | null
+That Damn Fish | 19.0 | null
+That Damn Fish | 3.94 | null
+\\"The Amaranta\\" Painting | 500.0 | null
+\\"The Current of Time\\" Wall Fresco | 1500.0 | null
+\\"The Duet\\" Wall Fresco | 150.0 | null
+The Kid On the Mountain | 19.0 | null
+Thick Fur | 11.5 | 1748.0
+Thick Hide | 0.45 | 5736.0
+Thorny Vine | 3.97 | 1067.0
+Thread of Corrupted Cloth | 90.0 | 19.0
+Throne of the Minotaur | 9999.0 | 1.0
+Thyme | 0.83 | 2673.0
+Tied-Back Curtain | 4999.0 | null
+Tightly Furled Map | 48.0 | null
+Timber | 0.13 | 146.0
+Timeless Amulet Shard | 875.0 | 6.0
+Timeless Blunderbuss Shard | 11.96 | 42.0
+Timeless Boots Shard | 38.0 | 98.0
+Timeless Bow Shard | 9.0 | 100.0
+Timeless Breastplate Shard | 28.48 | 96.0
+Timeless Cap Shard | 69.0 | 30.0
+Timeless Earring Shard | 108.0 | 8.0
+Timeless Fire Staff Shard | 14.67 | 39.0
+Timeless Flail Shard | 7.0 | 65.0
+Timeless Gauntlets Shard | 11.98 | 12.0
+Timeless Gloves Shard | 108.94 | 22.0
+Timeless Great Axe Shard | 30.0 | 25.0
+Timeless Greatsword Shard | 9.8 | 29.0
+Timeless Greaves Shard | 33.0 | 99.0
+Timeless Hatchet Shard | 4.5 | 1.0
+Timeless Ice Gauntlet Shard | 4.97 | 65.0
+Timeless Kite Shield Shard | 8.0 | 89.0
+Timeless Leather Coat Shard | 18.0 | 46.0
+Timeless Leather Gloves Shard | 19.93 | 43.0
+Timeless Leather Hat Shard | 4.48 | 96.0
+Timeless Leggings Shard | 9.95 | null
+Timeless Legguards Shard | 8.0 | 15.0
+Timeless Life Staff Shard | 6.35 | 61.0
+Timeless Musket Shard | 4.0 | null
+Timeless Pants Shard | 92.97 | 5.0
+Timeless Plate Helm Shard | 5.97 | 98.0
+Timeless Rapier Shard | 7.77 | null
+Timeless Ring Shard | 291.0 | 5.0
+Timeless Robes Shard | 6.78 | null
+Timeless Round Shield Shard | 5.95 | 90.0
+Timeless Shoes Shard | 56.0 | 16.0
+Timeless Spear Shard | 98.0 | 30.0
+Timeless Sword Shard | 8.0 | 92.0
+Timeless Tower Shield Shard | 15.0 | 90.0
+Timeless Void Gauntlet Shard | 3.0 | 43.0
+Timeless War Hammer Shard | 5.0 | 47.0
+Toadpot | 0.99 | 1640.0
+Toadstool Fringe | 1.35 | 4697.0
+To-Do List | 2.5 | null
+Tolvium | 9.98 | 188.0
+Tomato | 0.37 | 1414.0
+Tonic of Issachar | 5.0 | 33.0
+Tonic of Judah | 27.0 | 28.0
+Tonic of Levi | 12.0 | 9.0
+Tonic of Minerva | 959.0 | null
+Tonic of Nehemiah | 1.99 | null
+Tonic of Tyrannis | 531.0 | 5.0
+Topaz | 2.3 | 15.0
+Tostones | 41.96 | 20.0
+Totem of Arcane | 289.97 | 8.0
+Totem of Fire | 3999.0 | 1.0
+Totem of Ice | 182.99 | 22.0
+Totem of Lightning | 900.0 | 8.0
+Totem of Nature | 798.98 | 8.0
+Totem of Void | 304.0 | 10.0
+Town Wine | 189.0 | 33.0
+Tracker\'s Seal | 1390.0 | 2.0
+Trading Post Hustle | 300.0 | 1.0
+Trading Post Hustle | 3.9 | null
+Trading Post Hustle | 25.0 | null
+Trading Post Hustle | 3.9 | null
+Trading Post Hustle | 246.0 | null
+Trading Post Hustle | 3.9 | null
+Tranquil Willow Dye | 4.0 | null
+Travel Ration | 0.01 | null
+Tree Stump Side Table | 35.0 | null
+Tree Stump Table | 100.0 | null
+Tropical Mist Dye | 14.95 | null
+Tufted-Tail Bush | 2765.0 | 4.0
+Turkey and Stuffing with Mushroom Gravy | 8.0 | null
+Turkey Breast with Cranberry Glaze | 22.99 | null
+Turkey Pot Pie | 18.0 | null
+Turkey Thigh with Pan Gravy and Spiced Wild Berries | 24.95 | null
+Turquoise Brocade Drapes | 1987.0 | null
+Turquoise Brocade Valance | 1999.0 | null
+Turquoise Geometric Rug | 2400.0 | 3.0
+Turquoise Oasis Dye | 17.0 | null
+Turquoise Pigment | 34.97 | null
+Turquoise Place Setting | 3500.0 | 2.0
+Turquoise Silk Daybed | 90.0 | null
+Turquoise Woven Floor Mat | 399.0 | null
+Tuscan Style Display Column | 34.0 | null
+Twine Dye | 99.0 | null
+Twistcap Spiral | 1.55 | 1988.0
+Unpaid Parking Tickets | 4.99 | null
+Unpetrified Flesh | 0.24 | 380.0
+Unsettling Branch Wreath | 3.0 | null
+Unsettling Note | 2.0 | null
+Unwashed China | 1999.0 | null
+Urn of Lost Essence | 25.0 | null
+Used Serving Dishes | 45.0 | null
+Vacant Corrupted Insignia | 0.32 | null
+Varanus Mandje | 4.37 | null
+Vase of Desert Senna Flowers | 200.0 | null
+Vase of Ocotillo Flowers | 773.0 | null
+Vegetable Boil | 1.9 | null
+Venison | 0.47 | 1617.0
+Venison Jerky | 1.5 | null
+Venison Pot Roast | 0.5 | null
+Venison Roast | 12.0 | null
+Venison Stroganoff | 2.4 | null
+Venison Tenderloin | 3.77 | 2315.0
+Venison Tenderloin with Blueberry Glaze | 19.95 | null
+Venison Tenderloin with Herb Butter | 15.0 | null
+Verbena Flower | 0.1 | null
+Verbena Leaf | 0.5 | null
+Verbena Stem | 0.09 | null
+Verdant Concrete Stove | 289.99 | null
+Verdant Curtains | 51.11 | null
+Verdant Curule Seat | 100.0 | null
+Verdant Dining Chair | 250.0 | null
+Verdant High Bed | 482.0 | null
+Verdant Place Setting | 150.98 | null
+Verdant Tapestry | 128.0 | null
+Verdant Valance | 90.0 | null
+Verdant Woven Rug | 130.0 | null
+Verdun Green Dye | 49.0 | 27.0
+Very Important Papers | 800.0 | null
+Vial of Ancient Essence | 0.18 | 2714.0
+Vial of Ancient Mutagen | 23.79 | 10.0
+Vial of Azalea | 839.45 | 6.0
+Vial of Azalea Nectar | 4.0 | 90.0
+Vial of Azoth Oil | 99.0 | null
+Vial of Blessed Water | 8.82 | null
+Vial of Corrupted Essence | 5.0 | 5459.0
+Vial of Corrupted Ichor | 2.99 | 2947.0
+Vial of Ectoplasm | 7.96 | 89.0
+Vial Of Ectoplasmic Mutagen | 46.0 | 38.0
+Vial of Healing Water | 29999.97 | 1.0
+Vial of Lost Essence | 34.99 | null
+Vial of Mercury | 589.99 | 6.0
+Vial of Quicksilver | 4.99 | null
+Vial of Sap | 0.37 | null
+Vial of Suspended Azoth | 2.58 | 6.0
+Vial of Viscous Azoth | 18.0 | 363.0
+Vial of Wispy Energy | 14.88 | null
+Vial of Withered Essence | 4.0 | null
+Vial of Wolf Essence | 4.0 | null
+Vial of Wyrdwood Sap | 5.97 | null
+Viridian Green Dye | 4.5 | null
+Voidbent Ingot | 1260.0 | 10.0
+Void Crystal Core | 3.32 | null
+Void Essence | 11.85 | 246.0
+Voidmetal | 1.88 | 509.0
+Void Ore | 10.0 | 63.0
+Void Pitcher | 1.5 | 502.0
+Wall Woven Wicker Wreath | 3.0 | null
+Walnut Large Bookcase | 35.0 | 2.0
+Walnut Wood Armchair | 2790.99 | null
+Warm Iron Chandelier - Bright | 98.0 | null
+Warm Iron Chandelier - Dim | 64.0 | null
+Warm Iron Lantern - Bright | 100.0 | null
+Warm Iron Lantern - Dim | 11.0 | null
+Warm Iron Sconce - Bright | 99.0 | null
+Warm Iron Sconce - Dim | 199.0 | null
+Warm Slime Dye | 5.91 | null
+Warring Blunderbuss Pattern (War) | 1321.0 | null
+Warring Bow Pattern (War) | 1000.0 | null
+Warring Cloth Boots Pattern | 955.0 | null
+Warring Cloth Coat Pattern | 3432.0 | null
+Warring Cloth Gloves Pattern | 1356.0 | null
+Warring Cloth Hat Pattern | 1500.0 | null
+Warring Cloth Pants Pattern | 2987.0 | null
+Warring Fire Staff Pattern (War) | 250.0 | null
+Warring Great Axe Pattern (War) | 799.0 | null
+Warring Greatsword Pattern (War) | 788.0 | null
+Warring Hatchet Pattern (War) | 98.0 | null
+Warring Ice Gauntlet Pattern (War) | 1765.0 | null
+Warring Kite Shield Pattern (War) | 1987.0 | null
+Warring Leather Boots Pattern | 2987.0 | null
+Warring Leather Coat Pattern | 2000.0 | null
+Warring Leather Gloves Pattern | 944.0 | null
+Warring Leather Hat Pattern | 221.0 | null
+Warring Leather Pants Pattern | 200.0 | null
+Warring Life Staff Pattern (War) | 232.0 | null
+Warring Longsword Pattern (War) | 299.0 | null
+Warring Musket Pattern (War) | 1987.0 | 31.0
+Warring Plate Boots Pattern | 492.0 | null
+Warring Plate Breastplate Pattern | 148.0 | null
+Warring Plate Gauntlets Pattern | 1876.0 | null
+Warring Plate Helm Pattern | 2876.0 | null
+Warring Plate Legguards Pattern | 2876.0 | null
+Warring Rapier Pattern (War) | 197.99 | null
+Warring Round Shield Pattern (War) | 705.0 | null
+Warring Spear Pattern (War) | 279.99 | null
+Warring Tower Shield Pattern (War) | 798.5 | null
+Warring Void Gauntlet Pattern (War) | 1987.0 | null
+Warring War Hammer Pattern (War) | 987.0 | null
+Water | 0.02 | 9777.0
+Water Essence | 9.99 | 431.0
+Water Glyph Stone | 150.0 | 20.0
+Water Mote | 1.45 | 5804.0
+Water Quintessence | 18.21 | 61.0
+Water Wisp | 9.0 | 342.0
+Wayfaring Stranger | 602.0 | 1.0
+Wayfaring Stranger | 249.0 | 1.0
+Wayfaring Stranger | 255.0 | 1.0
+Wayfaring Stranger | 4.5 | null
+Weak Alkahest | 0.02 | 8901.0
+Weak Gemstone Dust | 0.08 | null
+Weak Health Potion | 0.28 | null
+Weak Honing Stone | 5.35 | 100.0
+Weak Incense | 4.0 | null
+Weak Mana Potion | 0.6 | 2.0
+Weak Oakflesh Balm | 0.9 | null
+Weak Proficiency Booster | 3.74 | 100.0
+Weapon Matrix | 8297.98 | 1.0
+Weaver\'s Webb | 7.0 | null
+Weaver\'s Webb | 2.39 | null
+Weaver\'s Webb | 45.5 | null
+Weaver\'s Webb | 29.0 | null
+Weaver\'s Webb | 5.0 | null
+Wedgewood Dye | 11.76 | null
+Well-Loved Dishes | 50.0 | null
+Well-polished Dining Table | 800.0 | null
+Well-polished Galley Shelf | 150.0 | null
+Well-polished Half-Barrel Table | 529.0 | null
+Well-polished Helm Chandelier | 45.0 | null
+Well-polished Low Bookcase | 200.0 | null
+Well-polished Scrolled Armoire | 390.0 | null
+Well-polished Scrolled Desk | 800.0 | null
+Well-polished Short Dresser | 399.0 | null
+Well-polished Small Table | 1999.0 | null
+Well-polished Tall Bookcase | 419.0 | null
+Well-polished Tall Dresser | 299.0 | null
+Well-polished Vanity Table | 350.0 | null
+West Flowing Selene Currents | 295.0 | null
+West Flowing Solis Currents | 500.0 | null
+Wheat | 2.87 | 1386.0
+Wheelbarrow of Garden Supplies | 23.5 | null
+Whetstone | 4.9 | 497.0
+Whisperwood | 0.13 | 3279.0
+White Gold Brocade Valance | 30000.0 | null
+White Gold Geometric Rug | 320.0 | null
+White Gold Place Setting | 29876.0 | 2.0
+White Gold Silk Daybed | 1000.0 | null
+White Gold Woven Floor Mat | 1878.0 | 3.0
+White Oak Family Shrine | 1456.0 | null
+White Oak Large Bookcase | 100.0 | null
+White Oak Wood Armoire | 2987.0 | null
+White Pigment | 20.11 | 52.0
+Wicker Basket | 8.0 | null
+Wild Berry Compote | 0.09 | null
+Wild Meadowsweet | 6.9 | null
+Wildwood | 6.0 | 1980.0
+Winds of Autumn | 0.1 | null
+Winds of Autumn | 0.01 | null
+Winter Flower Arrangement | 5202.0 | null
+Wirefiber | 0.68 | 353.0
+Wireweave | 0.08 | 9953.0
+Withered Bough | 0.98 | null
+Wolf Blood | 0.91 | 1353.0
+Wolf Loin Meat Pies | 8.65 | null
+Wooden Coin | 1.09 | 29.0
+Wooden Dishes | 4.0 | null
+Wooden Lost Locket | 1.36 | 197.0
+Wooden Side Desk | 30.0 | null
+Wooden Wall Torch | 19000.0 | null
+Wooden Wheelbarrow | 27.99 | null
+Woodlouse Bait | 0.01 | null
+Worn Mangy Hide | 25.0 | 3663.0
+Worn Whetstone | 0.1 | null
+Writhing Seedling | 33.99 | 51.0
+Writhing Vines | 79.0 | 152.0
+Wyrdwood | 1.33 | 413.0
+Wyrdwood Leaves | 1.85 | null
+Wyrdwood Leaves | 0.79 | null
+Wyrdwood Planks | 4.28 | 974.0
+Yeast | 0.35 | 2313.0
+Yellow Brass Hanging Oil Lamp | 2499.0 | null
+Yellow Brass Lounge Bed | 999.0 | null
+Yellow Brass Short Oil Lamp | 470.0 | null
+Yellow Brass Tall Oil Lamp | 119.0 | null
+Yellow Brass Wall Brazier | 3000.0 | null
+Yellow Pigment | 6.99 | null
+Young King Stanley | 0.6 | null
+Young King Stanley | 4500.0 | null
+Young King Stanley | 0.49 | null
+Young King Stanley | 4000.0 | null
+Young King Stanley | 1.9 | null
+Young King Stanley | 6500.0 | 1.0
+Young King Stanley | 0.97 | null
+Young King Stanley | 6543.0 | null
+Zebulun\'s Charm | 65.64 | 1.0
